@@ -2,7 +2,7 @@
     "skyway": [
         {
             "iRouteID": 60,
-            "iMonkeySpeed": 2000,
+            "iMonkeySpeed": 1500,
             "points": [
                 {
                     "iX": 224731,
@@ -43,7 +43,7 @@
         },
         {
             "iRouteID": 59,
-            "iMonkeySpeed": 2000,
+            "iMonkeySpeed": 1500,
             "points": [
                 {
                     "iX": 240200,
