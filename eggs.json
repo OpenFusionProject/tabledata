@@ -1,0 +1,704 @@
+{
+    "EggTypes": [
+        {
+            "Id": 60,
+            "DropCrateId": 0,
+            "EffectId": 154,
+            "Duration": 60,
+            "Regen": 30
+        },
+        {
+            "Id": 61,
+            "DropCrateId": 0,
+            "EffectId": 155,
+            "Duration": 60,
+            "Regen": 30
+        },
+        {
+            "Id": 62,
+            "DropCrateId": 0,
+            "EffectId": 156,
+            "Duration": 60,
+            "Regen": 30
+        },
+        {
+            "Id": 63,
+            "DropCrateId": 0,
+            "EffectId": 157,
+            "Duration": 60,
+            "Regen": 30
+        },
+        {
+            "Id": 64,
+            "DropCrateId": 0,
+            "EffectId": 158,
+            "Duration": 60,
+            "Regen": 30
+        },
+        {
+            "Id": 65,
+            "DropCrateId": 0,
+            "EffectId": 159,
+            "Duration": 60,
+            "Regen": 30
+        },
+        {
+            "Id": 66,
+            "DropCrateId": 0,
+            "EffectId": 183,
+            "Duration": 3,
+            "Regen": 2
+        },
+        {
+            "Id": 67,
+            "DropCrateId": 0,
+            "EffectId": 150,
+            "Duration": 3,
+            "Regen": 2
+        },
+        {
+            "Id": 68,
+            "DropCrateId": 0,
+            "EffectId": 40,
+            "Duration": 60,
+            "Regen": 30
+        },
+        {
+            "Id": 17,
+            "DropCrateId": 181,
+            "EffectId": 0,
+            "Duration": 0,
+            "Regen": 30
+        },
+        {
+            "Id": 18,
+            "DropCrateId": 182,
+            "EffectId": 0,
+            "Duration": 0,
+            "Regen": 30
+        },
+        {
+            "Id": 19,
+            "DropCrateId": 183,
+            "EffectId": 0,
+            "Duration": 0,
+            "Regen": 30
+        },
+        {
+            "Id": 20,
+            "DropCrateId": 184,
+            "EffectId": 0,
+            "Duration": 0,
+            "Regen": 30
+        },
+        {
+            "Id": 21,
+            "DropCrateId": 185,
+            "EffectId": 0,
+            "Duration": 0,
+            "Regen": 30
+        },
+        {
+            "Id": 22,
+            "DropCrateId": 186,
+            "EffectId": 0,
+            "Duration": 0,
+            "Regen": 30
+        },
+        {
+            "Id": 23,
+            "DropCrateId": 187,
+            "EffectId": 0,
+            "Duration": 0,
+            "Regen": 30
+        },
+        {
+            "Id": 24,
+            "DropCrateId": 188,
+            "EffectId": 0,
+            "Duration": 0,
+            "Regen": 30
+        },
+        {
+            "Id": 25,
+            "DropCrateId": 189,
+            "EffectId": 0,
+            "Duration": 0,
+            "Regen": 30
+        },
+        {
+            "Id": 26,
+            "DropCrateId": 190,
+            "EffectId": 0,
+            "Duration": 0,
+            "Regen": 30
+        },
+        {
+            "Id": 27,
+            "DropCrateId": 191,
+            "EffectId": 0,
+            "Duration": 0,
+            "Regen": 30
+        },
+        {
+            "Id": 28,
+            "DropCrateId": 192,
+            "EffectId": 0,
+            "Duration": 0,
+            "Regen": 30
+        },
+        {
+            "Id": 29,
+            "DropCrateId": 193,
+            "EffectId": 0,
+            "Duration": 0,
+            "Regen": 30
+        },
+        {
+            "Id": 30,
+            "DropCrateId": 194,
+            "EffectId": 0,
+            "Duration": 0,
+            "Regen": 30
+        },
+        {
+            "Id": 33,
+            "DropCrateId": 195,
+            "EffectId": 0,
+            "Duration": 0,
+            "Regen": 30
+        },
+        {
+            "Id": 34,
+            "DropCrateId": 196,
+            "EffectId": 0,
+            "Duration": 0,
+            "Regen": 30
+        },
+        {
+            "Id": 35,
+            "DropCrateId": 197,
+            "EffectId": 0,
+            "Duration": 0,
+            "Regen": 30
+        },
+        {
+            "Id": 36,
+            "DropCrateId": 198,
+            "EffectId": 0,
+            "Duration": 0,
+            "Regen": 30
+        },
+        {
+            "Id": 37,
+            "DropCrateId": 199,
+            "EffectId": 0,
+            "Duration": 0,
+            "Regen": 30
+        },
+        {
+            "Id": 38,
+            "DropCrateId": 200,
+            "EffectId": 0,
+            "Duration": 0,
+            "Regen": 30
+        },
+        {
+            "Id": 39,
+            "DropCrateId": 201,
+            "EffectId": 0,
+            "Duration": 0,
+            "Regen": 30
+        },
+        {
+            "Id": 40,
+            "DropCrateId": 202,
+            "EffectId": 0,
+            "Duration": 0,
+            "Regen": 30
+        },
+        {
+            "Id": 41,
+            "DropCrateId": 203,
+            "EffectId": 0,
+            "Duration": 0,
+            "Regen": 30
+        },
+        {
+            "Id": 42,
+            "DropCrateId": 204,
+            "EffectId": 0,
+            "Duration": 0,
+            "Regen": 30
+        },
+        {
+            "Id": 43,
+            "DropCrateId": 205,
+            "EffectId": 0,
+            "Duration": 0,
+            "Regen": 30
+        },
+        {
+            "Id": 44,
+            "DropCrateId": 206,
+            "EffectId": 0,
+            "Duration": 0,
+            "Regen": 30
+        },
+        {
+            "Id": 46,
+            "DropCrateId": 207,
+            "EffectId": 0,
+            "Duration": 0,
+            "Regen": 30
+        },
+        {
+            "Id": 47,
+            "DropCrateId": 208,
+            "EffectId": 0,
+            "Duration": 0,
+            "Regen": 30
+        },
+        {
+            "Id": 48,
+            "DropCrateId": 209,
+            "EffectId": 0,
+            "Duration": 0,
+            "Regen": 30
+        },
+        {
+            "Id": 49,
+            "DropCrateId": 210,
+            "EffectId": 0,
+            "Duration": 0,
+            "Regen": 30
+        },
+        {
+            "Id": 50,
+            "DropCrateId": 211,
+            "EffectId": 0,
+            "Duration": 0,
+            "Regen": 30
+        },
+        {
+            "Id": 51,
+            "DropCrateId": 212,
+            "EffectId": 0,
+            "Duration": 0,
+            "Regen": 30
+        },
+        {
+            "Id": 52,
+            "DropCrateId": 213,
+            "EffectId": 0,
+            "Duration": 0,
+            "Regen": 30
+        },
+        {
+            "Id": 53,
+            "DropCrateId": 214,
+            "EffectId": 0,
+            "Duration": 0,
+            "Regen": 30
+        },
+        {
+            "Id": 54,
+            "DropCrateId": 215,
+            "EffectId": 0,
+            "Duration": 0,
+            "Regen": 30
+        },
+        {
+            "Id": 55,
+            "DropCrateId": 216,
+            "EffectId": 0,
+            "Duration": 0,
+            "Regen": 30
+        }
+    ],
+    "Eggs": [
+        {
+            "iType": 17,
+            "iX": 648646,
+            "iY": 194661,
+            "iZ": -5667
+        },
+        {
+            "iType": 17,
+            "iX": 657271,
+            "iY": 165297,
+            "iZ": -5697
+        },
+        {
+            "iType": 18,
+            "iX": 623535,
+            "iY": 131077,
+            "iZ": -5695
+        },
+        {
+            "iType": 19,
+            "iX": 646880,
+            "iY": 68532,
+            "iZ": -5686
+        },
+        {
+            "iType": 19,
+            "iX": 757734,
+            "iY": 112450,
+            "iZ": -5288
+        },
+        {
+            "iType": 20,
+            "iX": 367013,
+            "iY": 452147,
+            "iZ": -5697
+        },
+        {
+            "iType": 20,
+            "iX": 370685,
+            "iY": 417589,
+            "iZ": -5419
+        },
+        {
+            "iType": 20,
+            "iX": 404079,
+            "iY": 415025,
+            "iZ": -5565
+        },
+        {
+            "iType": 21,
+            "iX": 365533,
+            "iY": 400011,
+            "iZ": -5686
+        },
+        {
+            "iType": 21,
+            "iX": 397908,
+            "iY": 380121,
+            "iZ": -2303
+        },
+        {
+            "iType": 22,
+            "iX": 390898,
+            "iY": 324620,
+            "iZ": -5686
+        },
+        {
+            "iType": 22,
+            "iX": 431943,
+            "iY": 404164,
+            "iZ": -5439
+        },
+        {
+            "iType": 23,
+            "iX": 447318,
+            "iY": 308102,
+            "iZ": -4497
+        },
+        {
+            "iMapNum": 23,
+            "iType": 25,
+            "iX": 492467,
+            "iY": 343276,
+            "iZ": -3326
+        },
+        {
+            "iType": 24,
+            "iX": 507045,
+            "iY": 397366,
+            "iZ": -3809
+        },
+        {
+            "iType": 26,
+            "iX": 494438,
+            "iY": 435665,
+            "iZ": -5347
+        },
+        {
+            "iType": 23,
+            "iX": 311459,
+            "iY": 323331,
+            "iZ": -485
+        },
+        {
+            "iType": 24,
+            "iX": 280934,
+            "iY": 314044,
+            "iZ": -5127
+        },
+        {
+            "iType": 25,
+            "iX": 283505,
+            "iY": 404423,
+            "iZ": -5057
+        },
+        {
+            "iMapNum": 25,
+            "iType": 27,
+            "iX": 228721,
+            "iY": 389956,
+            "iZ": 4127
+        },
+        {
+            "iType": 27,
+            "iX": 217405,
+            "iY": 362091,
+            "iZ": -5093
+        },
+        {
+            "iType": 28,
+            "iX": 192269,
+            "iY": 350738,
+            "iZ": -4996
+        },
+        {
+            "iType": 27,
+            "iX": 466745,
+            "iY": 481345,
+            "iZ": -5469
+        },
+        {
+            "iType": 27,
+            "iX": 502569,
+            "iY": 554713,
+            "iZ": -5058
+        },
+        {
+            "iType": 30,
+            "iX": 534224,
+            "iY": 512827,
+            "iZ": -4506
+        },
+        {
+            "iMapNum": 77,
+            "iType": 30,
+            "iX": 519671,
+            "iY": 488933,
+            "iZ": -2364
+        },
+        {
+            "iType": 30,
+            "iX": 544373,
+            "iY": 431697,
+            "iZ": 5572
+        },
+        {
+            "iType": 34,
+            "iX": 581619,
+            "iY": 394303,
+            "iZ": -4338
+        },
+        {
+            "iMapNum": 78,
+            "iType": 33,
+            "iX": 740498,
+            "iY": 380206,
+            "iZ": 18379
+        },
+        {
+            "iType": 35,
+            "iX": 539115,
+            "iY": 591457,
+            "iZ": -3317
+        },
+        {
+            "iType": 36,
+            "iX": 607804,
+            "iY": 609674,
+            "iZ": -1988
+        },
+        {
+            "iType": 37,
+            "iX": 601587,
+            "iY": 531999,
+            "iZ": 1717
+        },
+        {
+            "iType": 37,
+            "iX": 588348,
+            "iY": 553384,
+            "iZ": 1261
+        },
+        {
+            "iType": 37,
+            "iX": 584124,
+            "iY": 483293,
+            "iZ": 1627
+        },
+        {
+            "iType": 39,
+            "iX": 651730,
+            "iY": 490642,
+            "iZ": -7976
+        },
+        {
+            "iType": 40,
+            "iX": 662305,
+            "iY": 548572,
+            "iZ": -8378
+        },
+        {
+            "iMapNum": 80,
+            "iType": 41,
+            "iX": 502255,
+            "iY": 610885,
+            "iZ": -1474
+        },
+        {
+            "iType": 42,
+            "iX": 479942,
+            "iY": 628089,
+            "iZ": -2433
+        },
+        {
+            "iType": 43,
+            "iX": 508264,
+            "iY": 671403,
+            "iZ": -3915
+        },
+        {
+            "iMapNum": 81,
+            "iType": 44,
+            "iX": 434664,
+            "iY": 691739,
+            "iZ": 12818
+        },
+        {
+            "iMapNum": 68,
+            "iType": 29,
+            "iX": 247472,
+            "iY": 287893,
+            "iZ": -4533
+        },
+        {
+            "iType": 29,
+            "iX": 215623,
+            "iY": 219439,
+            "iZ": -2672
+        },
+        {
+            "iType": 31,
+            "iX": 180570,
+            "iY": 274727,
+            "iZ": -4015
+        },
+        {
+            "iType": 32,
+            "iX": 138120,
+            "iY": 214345,
+            "iZ": -3871
+        },
+        {
+            "iType": 32,
+            "iX": 161808,
+            "iY": 210017,
+            "iZ": -3290
+        },
+        {
+            "iType": 31,
+            "iX": 216110,
+            "iY": 169446,
+            "iZ": -5030
+        },
+        {
+            "iType": 34,
+            "iX": 230445,
+            "iY": 134064,
+            "iZ": -4933
+        },
+        {
+            "iType": 35,
+            "iX": 289429,
+            "iY": 143017,
+            "iZ": -223
+        },
+        {
+            "iMapNum": 74,
+            "iType": 40,
+            "iX": 341386,
+            "iY": 166302,
+            "iZ": 7612
+        },
+        {
+            "iType": 40,
+            "iX": 276923,
+            "iY": 177760,
+            "iZ": 475
+        },
+        {
+            "iType": 36,
+            "iX": 282098,
+            "iY": 232894,
+            "iZ": 1070
+        },
+        {
+            "iType": 38,
+            "iX": 313724,
+            "iY": 273903,
+            "iZ": 2605
+        },
+        {
+            "iMapNum": 73,
+            "iType": 37,
+            "iX": 266727,
+            "iY": 296430,
+            "iZ": 2202
+        },
+        {
+            "iType": 44,
+            "iX": 333165,
+            "iY": 551518,
+            "iZ": -7088
+        },
+        {
+            "iType": 444,
+            "iX": 259309,
+            "iY": 527771,
+            "iZ": -2871
+        },
+        {
+            "iType": 44,
+            "iX": 259309,
+            "iY": 527771,
+            "iZ": -2871
+        },
+        {
+            "iType": 45,
+            "iX": 269840,
+            "iY": 573297,
+            "iZ": -828
+        },
+        {
+            "iMapNum": 117,
+            "iType": 46,
+            "iX": 299145,
+            "iY": 637293,
+            "iZ": -5833
+        },
+        {
+            "iType": 47,
+            "iX": 249388,
+            "iY": 622853,
+            "iZ": 729
+        },
+        {
+            "iMapNum": 118,
+            "iType": 48,
+            "iX": 229606,
+            "iY": 708958,
+            "iZ": 5027
+        },
+        {
+            "iType": 50,
+            "iX": 179035,
+            "iY": 652340,
+            "iZ": -6439
+        },
+        {
+            "iType": 50,
+            "iX": 179805,
+            "iY": 678163,
+            "iZ": -4455
+        }
+    ]
+}
