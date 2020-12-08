@@ -46622,6 +46622,168 @@
             "iX": 698147,
             "iY": 695719,
             "iZ": -7101
+        },
+        {
+            "iAngle": 92,
+            "iHP": 890,
+            "iMapNum": 31,
+            "iNPCType": 1317,
+            "iX": 708976,
+            "iY": 776857,
+            "iZ": -7224
+        },
+        {
+            "iAngle": -178,
+            "iHP": 890,
+            "iMapNum": 31,
+            "iNPCType": 1317,
+            "iX": 708534,
+            "iY": 777811,
+            "iZ": -7224
+        },
+        {
+            "iAngle": 94,
+            "iHP": 890,
+            "iMapNum": 31,
+            "iNPCType": 1317,
+            "iX": 708979,
+            "iY": 781112,
+            "iZ": -7224
+        },
+        {
+            "iAngle": -85,
+            "iHP": 890,
+            "iMapNum": 31,
+            "iNPCType": 1317,
+            "iX": 708858,
+            "iY": 783022,
+            "iZ": -7224
+        },
+        {
+            "iAngle": -311,
+            "iHP": 890,
+            "iMapNum": 31,
+            "iNPCType": 1317,
+            "iX": 702917,
+            "iY": 780323,
+            "iZ": -7224
+        },
+        {
+            "iAngle": -199,
+            "iHP": 890,
+            "iMapNum": 31,
+            "iNPCType": 1317,
+            "iX": 702056,
+            "iY": 777778,
+            "iZ": -7224
+        },
+        {
+            "iAngle": 188,
+            "iHP": 890,
+            "iMapNum": 31,
+            "iNPCType": 1317,
+            "iX": 699286,
+            "iY": 780807,
+            "iZ": -7224
+        },
+        {
+            "iAngle": 123,
+            "iHP": 890,
+            "iMapNum": 31,
+            "iNPCType": 1317,
+            "iX": 699269,
+            "iY": 776881,
+            "iZ": -7224
+        },
+        {
+            "iAngle": 197,
+            "iHP": 890,
+            "iMapNum": 31,
+            "iNPCType": 1317,
+            "iX": 696362,
+            "iY": 776167,
+            "iZ": -7224
+        },
+        {
+            "iAngle": 37,
+            "iHP": 890,
+            "iMapNum": 31,
+            "iNPCType": 1317,
+            "iX": 697584,
+            "iY": 778064,
+            "iZ": -7224
+        },
+        {
+            "iAngle": 108,
+            "iHP": 890,
+            "iMapNum": 31,
+            "iNPCType": 1317,
+            "iX": 695254,
+            "iY": 783242,
+            "iZ": -7224
+        },
+        {
+            "iAngle": -180,
+            "iHP": 890,
+            "iMapNum": 31,
+            "iNPCType": 1317,
+            "iX": 695466,
+            "iY": 788499,
+            "iZ": -7224
+        },
+        {
+            "iAngle": -86,
+            "iHP": 890,
+            "iMapNum": 31,
+            "iNPCType": 1317,
+            "iX": 698565,
+            "iY": 789321,
+            "iZ": -7224
+        },
+        {
+            "iAngle": -352,
+            "iHP": 890,
+            "iMapNum": 31,
+            "iNPCType": 1317,
+            "iX": 701693,
+            "iY": 788436,
+            "iZ": -7197
+        },
+        {
+            "iAngle": -348,
+            "iHP": 890,
+            "iMapNum": 31,
+            "iNPCType": 1317,
+            "iX": 707642,
+            "iY": 789247,
+            "iZ": -7224
+        },
+        {
+            "iAngle": 181,
+            "iHP": 890,
+            "iMapNum": 31,
+            "iNPCType": 1317,
+            "iX": 707737,
+            "iY": 783452,
+            "iZ": -7224
+        },
+        {
+            "iAngle": 167,
+            "iHP": 890,
+            "iMapNum": 31,
+            "iNPCType": 1317,
+            "iX": 707051,
+            "iY": 784887,
+            "iZ": -7224
+        },
+        {
+            "iAngle": 180,
+            "iHP": 1669,
+            "iMapNum": 31,
+            "iNPCType": 1197,
+            "iX": 701389,
+            "iY": 783655,
+            "iZ": -6685
         }
     ],
     "groups": []
