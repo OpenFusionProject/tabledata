@@ -52721,6 +52721,69 @@
             "iX": 497184,
             "iY": 568287,
             "iZ": -3355
+        },
+        {
+            "iAngle": -278,
+            "iHP": 3446,
+            "iMapNum": 0,
+            "iNPCType": 592,
+            "iX": 348358,
+            "iY": 210285,
+            "iZ": -4776
+        },
+        {
+            "iAngle": 0,
+            "iHP": 2982,
+            "iMapNum": 0,
+            "iNPCType": 593,
+            "iX": 330086,
+            "iY": 220202,
+            "iZ": -4836
+        },
+        {
+            "iAngle": -146,
+            "iHP": 1731,
+            "iMapNum": 0,
+            "iNPCType": 399,
+            "iX": 325373,
+            "iY": 224146,
+            "iZ": -4825
+        },
+        {
+            "iAngle": -197,
+            "iHP": 1731,
+            "iMapNum": 0,
+            "iNPCType": 399,
+            "iX": 328276,
+            "iY": 224445,
+            "iZ": -4836
+        },
+        {
+            "iAngle": -305,
+            "iHP": 1731,
+            "iMapNum": 0,
+            "iNPCType": 399,
+            "iX": 330694,
+            "iY": 223696,
+            "iZ": -4836
+        },
+        {
+            "iAngle": -97,
+            "iHP": 1731,
+            "iMapNum": 0,
+            "iNPCType": 399,
+            "iX": 322979,
+            "iY": 223774,
+            "iZ": -4836
+        },
+        {
+            "iAngle": -173,
+            "iHP": 2934,
+            "iMapNum": 0,
+            "iNPCType": 591,
+            "iX": 344002,
+            "iY": 241469,
+            "iZ": -4836
         }
     ],
     "groups": [
@@ -59726,6 +59789,305 @@
             "iX": 504905,
             "iY": 582178,
             "iZ": -4427
+        },
+        {
+            "aFollowers": [
+                {
+                    "iHP": 1303,
+                    "iNPCType": 202,
+                    "iOffsetX": -251,
+                    "iOffsetY": 433
+                },
+                {
+                    "iHP": 1303,
+                    "iNPCType": 202,
+                    "iOffsetX": 249,
+                    "iOffsetY": 433
+                }
+            ],
+            "iAngle": 0,
+            "iHP": 3436,
+            "iMapNum": 0,
+            "iNPCType": 590,
+            "iX": 318559,
+            "iY": 243021,
+            "iZ": -4836
+        },
+        {
+            "aFollowers": [
+                {
+                    "iHP": 1303,
+                    "iNPCType": 202,
+                    "iOffsetX": -429,
+                    "iOffsetY": -258
+                },
+                {
+                    "iHP": 1303,
+                    "iNPCType": 202,
+                    "iOffsetX": -438,
+                    "iOffsetY": 242
+                }
+            ],
+            "iAngle": -91,
+            "iHP": 1303,
+            "iMapNum": 0,
+            "iNPCType": 202,
+            "iX": 314210,
+            "iY": 245958,
+            "iZ": -4836
+        },
+        {
+            "aFollowers": [
+                {
+                    "iHP": 1303,
+                    "iNPCType": 202,
+                    "iOffsetX": -434,
+                    "iOffsetY": -250
+                },
+                {
+                    "iHP": 1303,
+                    "iNPCType": 202,
+                    "iOffsetX": -434,
+                    "iOffsetY": 250
+                }
+            ],
+            "iAngle": -90,
+            "iHP": 1303,
+            "iMapNum": 0,
+            "iNPCType": 202,
+            "iX": 314791,
+            "iY": 250017,
+            "iZ": -4836
+        },
+        {
+            "aFollowers": [
+                {
+                    "iHP": 1303,
+                    "iNPCType": 202,
+                    "iOffsetX": 203,
+                    "iOffsetY": -457
+                },
+                {
+                    "iHP": 1303,
+                    "iNPCType": 202,
+                    "iOffsetX": -294,
+                    "iOffsetY": -405
+                }
+            ],
+            "iAngle": -174,
+            "iHP": 1303,
+            "iMapNum": 0,
+            "iNPCType": 202,
+            "iX": 314730,
+            "iY": 240825,
+            "iZ": -4836
+        },
+        {
+            "aFollowers": [
+                {
+                    "iHP": 1303,
+                    "iNPCType": 202,
+                    "iOffsetX": -251,
+                    "iOffsetY": 433
+                },
+                {
+                    "iHP": 1303,
+                    "iNPCType": 202,
+                    "iOffsetX": 249,
+                    "iOffsetY": 433
+                }
+            ],
+            "iAngle": 0,
+            "iHP": 1303,
+            "iMapNum": 0,
+            "iNPCType": 202,
+            "iX": 321748,
+            "iY": 237542,
+            "iZ": -4836
+        },
+        {
+            "aFollowers": [
+                {
+                    "iHP": 1731,
+                    "iNPCType": 399,
+                    "iOffsetX": -378,
+                    "iOffsetY": 466
+                },
+                {
+                    "iHP": 1731,
+                    "iNPCType": 399,
+                    "iOffsetX": 215,
+                    "iOffsetY": 560
+                }
+            ],
+            "iAngle": -9,
+            "iHP": 2982,
+            "iMapNum": 0,
+            "iNPCType": 593,
+            "iX": 327568,
+            "iY": 216313,
+            "iZ": -4862
+        },
+        {
+            "aFollowers": [
+                {
+                    "iHP": 1303,
+                    "iNPCType": 204,
+                    "iOffsetX": 388,
+                    "iOffsetY": 314
+                },
+                {
+                    "iHP": 1303,
+                    "iNPCType": 204,
+                    "iOffsetX": 466,
+                    "iOffsetY": -180
+                }
+            ],
+            "iAngle": 81,
+            "iHP": 1303,
+            "iMapNum": 0,
+            "iNPCType": 204,
+            "iX": 346404,
+            "iY": 208968,
+            "iZ": -4832
+        },
+        {
+            "aFollowers": [
+                {
+                    "iHP": 1303,
+                    "iNPCType": 204,
+                    "iOffsetX": -329,
+                    "iOffsetY": 377
+                },
+                {
+                    "iHP": 1303,
+                    "iNPCType": 204,
+                    "iOffsetX": 162,
+                    "iOffsetY": 472
+                }
+            ],
+            "iAngle": -11,
+            "iHP": 1303,
+            "iMapNum": 0,
+            "iNPCType": 204,
+            "iX": 335314,
+            "iY": 228312,
+            "iZ": -4898
+        },
+        {
+            "aFollowers": [
+                {
+                    "iHP": 1303,
+                    "iNPCType": 204,
+                    "iOffsetX": 498,
+                    "iOffsetY": 34
+                },
+                {
+                    "iHP": 1303,
+                    "iNPCType": 204,
+                    "iOffsetX": 279,
+                    "iOffsetY": -415
+                }
+            ],
+            "iAngle": -244,
+            "iHP": 1303,
+            "iMapNum": 0,
+            "iNPCType": 204,
+            "iX": 340192,
+            "iY": 214435,
+            "iZ": -4872
+        },
+        {
+            "aFollowers": [
+                {
+                    "iHP": 1303,
+                    "iNPCType": 204,
+                    "iOffsetX": 43,
+                    "iOffsetY": 498
+                },
+                {
+                    "iHP": 1303,
+                    "iNPCType": 204,
+                    "iOffsetX": 453,
+                    "iOffsetY": 211
+                }
+            ],
+            "iAngle": 35,
+            "iHP": 1303,
+            "iMapNum": 0,
+            "iNPCType": 204,
+            "iX": 341727,
+            "iY": 220389,
+            "iZ": -4827
+        },
+        {
+            "aFollowers": [
+                {
+                    "iHP": 1303,
+                    "iNPCType": 204,
+                    "iOffsetX": -425,
+                    "iOffsetY": 264
+                },
+                {
+                    "iHP": 1303,
+                    "iNPCType": 204,
+                    "iOffsetX": 17,
+                    "iOffsetY": 499
+                }
+            ],
+            "iAngle": -28,
+            "iHP": 1303,
+            "iMapNum": 0,
+            "iNPCType": 204,
+            "iX": 342927,
+            "iY": 228368,
+            "iZ": -4870
+        },
+        {
+            "aFollowers": [
+                {
+                    "iHP": 1303,
+                    "iNPCType": 204,
+                    "iOffsetX": -273,
+                    "iOffsetY": 419
+                },
+                {
+                    "iHP": 1303,
+                    "iNPCType": 204,
+                    "iOffsetX": 226,
+                    "iOffsetY": 445
+                }
+            ],
+            "iAngle": -182,
+            "iHP": 3446,
+            "iMapNum": 0,
+            "iNPCType": 592,
+            "iX": 345059,
+            "iY": 225307,
+            "iZ": -4596
+        },
+        {
+            "aFollowers": [
+                {
+                    "iHP": 1715,
+                    "iNPCType": 397,
+                    "iOffsetX": -454,
+                    "iOffsetY": 211
+                },
+                {
+                    "iHP": 1715,
+                    "iNPCType": 397,
+                    "iOffsetX": -410,
+                    "iOffsetY": -287
+                }
+            ],
+            "iAngle": -95,
+            "iHP": 2934,
+            "iMapNum": 0,
+            "iNPCType": 591,
+            "iX": 348146,
+            "iY": 240064,
+            "iZ": -4836
         }
     ]
 }
