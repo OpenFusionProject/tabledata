@@ -23353,6 +23353,69 @@
             "z": -5552,
             "mapNum": 0,
             "angle": 22
+        },
+        {
+            "name": "Location A481",
+            "id": 2186,
+            "x": 756231,
+            "y": 731313,
+            "z": -6787,
+            "mapNum": 100,
+            "angle": -234
+        },
+        {
+            "name": "Pokey Oaks",
+            "id": 1484,
+            "x": 795712,
+            "y": 733877,
+            "z": -7288,
+            "mapNum": 47,
+            "angle": 0
+        },
+        {
+            "name": "Pokey Oaks",
+            "id": 1484,
+            "x": 802318,
+            "y": 733466,
+            "z": -7404,
+            "mapNum": 47,
+            "angle": 0
+        },
+        {
+            "name": "Location A255",
+            "id": 1400,
+            "x": 795712,
+            "y": 733877,
+            "z": -7288,
+            "mapNum": 47,
+            "angle": 0
+        },
+        {
+            "name": "Charles Darwin Middle School",
+            "id": 1504,
+            "x": 782354,
+            "y": 726579,
+            "z": -7288,
+            "mapNum": 43,
+            "angle": 56
+        },
+        {
+            "name": "Charles Darwin Middle School",
+            "id": 1504,
+            "x": 783994,
+            "y": 733887,
+            "z": -7382,
+            "mapNum": 43,
+            "angle": 35
+        },
+        {
+            "name": "Location A244",
+            "id": 1380,
+            "x": 782354,
+            "y": 726579,
+            "z": -7288,
+            "mapNum": 43,
+            "angle": 56
         }
     ]
 }
