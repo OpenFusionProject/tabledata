@@ -53784,6 +53784,105 @@
             "iX": 793732,
             "iY": 754766,
             "iZ": -7099
+        },
+        {
+            "iAngle": -51,
+            "iHP": 3268,
+            "iMapNum": 64,
+            "iNPCType": 1707,
+            "iX": 802351,
+            "iY": 783987,
+            "iZ": -7185
+        },
+        {
+            "iAngle": 174,
+            "iHP": 885,
+            "iMapNum": 64,
+            "iNPCType": 169,
+            "iX": 795128,
+            "iY": 777770,
+            "iZ": -7226
+        },
+        {
+            "iAngle": -20,
+            "iHP": 885,
+            "iMapNum": 64,
+            "iNPCType": 169,
+            "iX": 795278,
+            "iY": 781760,
+            "iZ": -7210
+        },
+        {
+            "iAngle": 84,
+            "iHP": 885,
+            "iMapNum": 64,
+            "iNPCType": 169,
+            "iX": 797298,
+            "iY": 780859,
+            "iZ": -7180
+        },
+        {
+            "iAngle": 7,
+            "iHP": 885,
+            "iMapNum": 64,
+            "iNPCType": 169,
+            "iX": 798183,
+            "iY": 782283,
+            "iZ": -7221
+        },
+        {
+            "iAngle": 101,
+            "iHP": 885,
+            "iMapNum": 64,
+            "iNPCType": 169,
+            "iX": 799758,
+            "iY": 779752,
+            "iZ": -7171
+        },
+        {
+            "iAngle": 277,
+            "iHP": 885,
+            "iMapNum": 64,
+            "iNPCType": 169,
+            "iX": 798514,
+            "iY": 784119,
+            "iZ": -7206
+        },
+        {
+            "iAngle": 252,
+            "iHP": 885,
+            "iMapNum": 64,
+            "iNPCType": 169,
+            "iX": 799073,
+            "iY": 777350,
+            "iZ": -7254
+        },
+        {
+            "iAngle": 14,
+            "iHP": 885,
+            "iMapNum": 64,
+            "iNPCType": 169,
+            "iX": 802513,
+            "iY": 777656,
+            "iZ": -7201
+        },
+        {
+            "iAngle": -3,
+            "iHP": 885,
+            "iMapNum": 64,
+            "iNPCType": 169,
+            "iX": 802506,
+            "iY": 780557,
+            "iZ": -7242
+        },
+        {
+            "iAngle": 48,
+            "iHP": 885,
+            "iMapNum": 64,
+            "iNPCType": 169,
+            "iX": 798564,
+            "iY": 779654,
+            "iZ": -7288
         }
     ],
     "groups": [
