@@ -2433,7 +2433,7 @@
             "iAngle": -404
         },
         {
-            "iNPCType": 59,
+            "iNPCType": 253,
             "iHP": 350,
             "iX": 593295,
             "iY": 95650,
@@ -2441,7 +2441,7 @@
             "iAngle": 71
         },
         {
-            "iNPCType": 59,
+            "iNPCType": 253,
             "iHP": 350,
             "iX": 588970,
             "iY": 95598,
@@ -5166,7 +5166,7 @@
             "iAngle": 0
         },
         {
-            "iNPCType": 59,
+            "iNPCType": 253,
             "iHP": 350,
             "iX": 580191,
             "iY": 78421,
@@ -5174,7 +5174,7 @@
             "iAngle": 0
         },
         {
-            "iNPCType": 59,
+            "iNPCType": 253,
             "iHP": 350,
             "iX": 576693,
             "iY": 78459,
@@ -5182,7 +5182,7 @@
             "iAngle": 0
         },
         {
-            "iNPCType": 59,
+            "iNPCType": 253,
             "iHP": 350,
             "iX": 568572,
             "iY": 80312,
@@ -5190,7 +5190,7 @@
             "iAngle": 0
         },
         {
-            "iNPCType": 59,
+            "iNPCType": 253,
             "iHP": 350,
             "iX": 568715,
             "iY": 85857,
@@ -5214,7 +5214,7 @@
             "iAngle": 0
         },
         {
-            "iNPCType": 59,
+            "iNPCType": 253,
             "iHP": 350,
             "iX": 601900,
             "iY": 97519,
@@ -5222,7 +5222,7 @@
             "iAngle": 0
         },
         {
-            "iNPCType": 59,
+            "iNPCType": 253,
             "iHP": 350,
             "iX": 597138,
             "iY": 97442,
@@ -5270,7 +5270,7 @@
             "iAngle": 0
         },
         {
-            "iNPCType": 59,
+            "iNPCType": 253,
             "iHP": 350,
             "iX": 576422,
             "iY": 84043,
@@ -5278,7 +5278,7 @@
             "iAngle": 0
         },
         {
-            "iNPCType": 59,
+            "iNPCType": 253,
             "iHP": 350,
             "iX": 578242,
             "iY": 80673,
@@ -5286,7 +5286,7 @@
             "iAngle": 0
         },
         {
-            "iNPCType": 59,
+            "iNPCType": 253,
             "iHP": 350,
             "iX": 574156,
             "iY": 93433,
@@ -5574,7 +5574,7 @@
             "iAngle": 0
         },
         {
-            "iNPCType": 59,
+            "iNPCType": 253,
             "iHP": 350,
             "iX": 571597,
             "iY": 76278,
@@ -5582,7 +5582,7 @@
             "iAngle": 0
         },
         {
-            "iNPCType": 59,
+            "iNPCType": 253,
             "iHP": 350,
             "iX": 573448,
             "iY": 72953,
@@ -5590,7 +5590,7 @@
             "iAngle": 0
         },
         {
-            "iNPCType": 59,
+            "iNPCType": 253,
             "iHP": 350,
             "iX": 574576,
             "iY": 70798,
@@ -5630,7 +5630,7 @@
             "iAngle": 0
         },
         {
-            "iNPCType": 59,
+            "iNPCType": 253,
             "iHP": 350,
             "iX": 570310,
             "iY": 70081,
@@ -5638,7 +5638,7 @@
             "iAngle": 0
         },
         {
-            "iNPCType": 59,
+            "iNPCType": 253,
             "iHP": 350,
             "iX": 571645,
             "iY": 72085,
@@ -5646,7 +5646,7 @@
             "iAngle": 0
         },
         {
-            "iNPCType": 59,
+            "iNPCType": 253,
             "iHP": 350,
             "iX": 569484,
             "iY": 72227,
@@ -5654,7 +5654,7 @@
             "iAngle": 0
         },
         {
-            "iNPCType": 59,
+            "iNPCType": 253,
             "iHP": 350,
             "iX": 569463,
             "iY": 75258,
@@ -5662,7 +5662,7 @@
             "iAngle": 0
         },
         {
-            "iNPCType": 59,
+            "iNPCType": 253,
             "iHP": 350,
             "iX": 569198,
             "iY": 77918,
@@ -5670,7 +5670,7 @@
             "iAngle": 0
         },
         {
-            "iNPCType": 59,
+            "iNPCType": 253,
             "iHP": 350,
             "iX": 570185,
             "iY": 79356,
@@ -5678,7 +5678,7 @@
             "iAngle": 0
         },
         {
-            "iNPCType": 59,
+            "iNPCType": 253,
             "iHP": 350,
             "iX": 569178,
             "iY": 83174,
@@ -5686,7 +5686,7 @@
             "iAngle": 0
         },
         {
-            "iNPCType": 59,
+            "iNPCType": 253,
             "iHP": 350,
             "iX": 569490,
             "iY": 88967,
@@ -5694,7 +5694,7 @@
             "iAngle": 0
         },
         {
-            "iNPCType": 59,
+            "iNPCType": 253,
             "iHP": 350,
             "iX": 572458,
             "iY": 88638,
@@ -5702,7 +5702,7 @@
             "iAngle": 0
         },
         {
-            "iNPCType": 59,
+            "iNPCType": 253,
             "iHP": 350,
             "iX": 570953,
             "iY": 90583,
@@ -5710,7 +5710,7 @@
             "iAngle": 0
         },
         {
-            "iNPCType": 59,
+            "iNPCType": 253,
             "iHP": 350,
             "iX": 572480,
             "iY": 91808,
@@ -5718,7 +5718,7 @@
             "iAngle": 0
         },
         {
-            "iNPCType": 59,
+            "iNPCType": 253,
             "iHP": 350,
             "iX": 574480,
             "iY": 89629,
@@ -5726,7 +5726,7 @@
             "iAngle": 0
         },
         {
-            "iNPCType": 59,
+            "iNPCType": 253,
             "iHP": 350,
             "iX": 575416,
             "iY": 91215,
@@ -5734,7 +5734,7 @@
             "iAngle": 0
         },
         {
-            "iNPCType": 59,
+            "iNPCType": 253,
             "iHP": 350,
             "iX": 577289,
             "iY": 86288,
@@ -5742,7 +5742,7 @@
             "iAngle": 0
         },
         {
-            "iNPCType": 59,
+            "iNPCType": 253,
             "iHP": 350,
             "iX": 576247,
             "iY": 88082,
@@ -5750,7 +5750,7 @@
             "iAngle": 0
         },
         {
-            "iNPCType": 59,
+            "iNPCType": 253,
             "iHP": 350,
             "iX": 578098,
             "iY": 88456,
@@ -5758,7 +5758,7 @@
             "iAngle": 0
         },
         {
-            "iNPCType": 59,
+            "iNPCType": 253,
             "iHP": 350,
             "iX": 580671,
             "iY": 87234,
@@ -5902,7 +5902,7 @@
             "iAngle": 0
         },
         {
-            "iNPCType": 59,
+            "iNPCType": 253,
             "iHP": 350,
             "iX": 581392,
             "iY": 70799,
@@ -5958,7 +5958,7 @@
             "iAngle": 0
         },
         {
-            "iNPCType": 59,
+            "iNPCType": 253,
             "iHP": 350,
             "iX": 579365,
             "iY": 83165,
@@ -5966,7 +5966,7 @@
             "iAngle": 0
         },
         {
-            "iNPCType": 59,
+            "iNPCType": 253,
             "iHP": 350,
             "iX": 580303,
             "iY": 84020,
@@ -5990,7 +5990,7 @@
             "iAngle": 0
         },
         {
-            "iNPCType": 59,
+            "iNPCType": 253,
             "iHP": 350,
             "iX": 574702,
             "iY": 84046,
@@ -5998,7 +5998,7 @@
             "iAngle": 0
         },
         {
-            "iNPCType": 59,
+            "iNPCType": 253,
             "iHP": 350,
             "iX": 572887,
             "iY": 83068,
@@ -6006,7 +6006,7 @@
             "iAngle": 0
         },
         {
-            "iNPCType": 59,
+            "iNPCType": 253,
             "iHP": 350,
             "iX": 572347,
             "iY": 80907,
@@ -6014,7 +6014,7 @@
             "iAngle": 0
         },
         {
-            "iNPCType": 59,
+            "iNPCType": 253,
             "iHP": 350,
             "iX": 573307,
             "iY": 77963,
@@ -6022,7 +6022,7 @@
             "iAngle": 0
         },
         {
-            "iNPCType": 59,
+            "iNPCType": 253,
             "iHP": 350,
             "iX": 573708,
             "iY": 85500,
@@ -6030,7 +6030,7 @@
             "iAngle": 0
         },
         {
-            "iNPCType": 59,
+            "iNPCType": 253,
             "iHP": 350,
             "iX": 571573,
             "iY": 86336,
@@ -6038,7 +6038,7 @@
             "iAngle": 0
         },
         {
-            "iNPCType": 59,
+            "iNPCType": 253,
             "iHP": 350,
             "iX": 571707,
             "iY": 81818,
