@@ -23416,6 +23416,33 @@
             "z": -7288,
             "mapNum": 43,
             "angle": 56
+        },
+        {
+            "name": "Resurrect 'Em",
+            "id": 642,
+            "x": 246180,
+            "y": 129624,
+            "z": -5034,
+            "mapNum": 70,
+            "angle": 0
+        },
+        {
+            "name": "Resurrect 'Em",
+            "id": 641,
+            "x": 228043,
+            "y": 313368,
+            "z": -5029,
+            "mapNum": 0,
+            "angle": 0
+        },
+        {
+            "name": "Resurrect 'Em",
+            "id": 641,
+            "x": 295522,
+            "y": 569496,
+            "z": -5670,
+            "mapNum": 0,
+            "angle": 0
         }
     ]
 }
