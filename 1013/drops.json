@@ -28970,6 +28970,11 @@
   ],
   "CodeItems": [
     {
+      "Code": "ffcshnitzelbooms",
+      "Type": 0,
+      "Id": 702
+    },
+    {
       "Code": "ffcnaturalskills",
       "Type": 1,
       "Id": 525
@@ -29410,6 +29415,11 @@
       "Id": 528
     },
     {
+      "Code": "ffchighflyingfun",
+      "Type": 6,
+      "Id": 83
+    },
+    {
       "Code": "ffcnoblewarriors",
       "Type": 5,
       "Id": 66
@@ -29483,6 +29493,11 @@
       "Code": "ffcsquishthemall",
       "Type": 1,
       "Id": 621
+    },
+    {
+      "Code": "ffcsquishthemall",
+      "Type": 0,
+      "Id": 711
     },
     {
       "Code": "ffcspecialthanks",
@@ -29728,6 +29743,56 @@
       "Code": "ffcnerdybutsweet",
       "Type": 9,
       "Id": 1259
+    },
+    {
+      "Code": "ffc947d09129edea",
+      "Type": 0,
+      "Id": 613
+    },
+    {
+      "Code": "ffc947d09129edea",
+      "Type": 1,
+      "Id": 417
+    },
+    {
+      "Code": "ffc947d09129edea",
+      "Type": 2,
+      "Id": 400
+    },
+    {
+      "Code": "ffc947d09129edea",
+      "Type": 3,
+      "Id": 406
+    },
+    {
+      "Code": "ffc947d09129edea",
+      "Type": 6,
+      "Id": 44
+    },
+    {
+      "Code": "ffc947d09129edea",
+      "Type": 0,
+      "Id": 614
+    },
+    {
+      "Code": "ffc947d09129edea",
+      "Type": 1,
+      "Id": 39
+    },
+    {
+      "Code": "ffc947d09129edea",
+      "Type": 2,
+      "Id": 401
+    },
+    {
+      "Code": "ffc947d09129edea",
+      "Type": 3,
+      "Id": 407
+    },
+    {
+      "Code": "ffc947d09129edea",
+      "Type": 4,
+      "Id": 74
     }
   ]
 }
