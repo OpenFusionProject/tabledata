@@ -314,6 +314,76 @@
             "EffectId": 0,
             "Duration": 0,
             "Regen": 1800
+        },
+        {
+            "Id": 129,
+            "DropCrateId": 1209,
+            "EffectId": 0,
+            "Duration": 0,
+            "Regen": 1800
+        },
+        {
+            "Id": 130,
+            "DropCrateId": 1210,
+            "EffectId": 0,
+            "Duration": 0,
+            "Regen": 1800
+        },
+        {
+            "Id": 131,
+            "DropCrateId": 1211,
+            "EffectId": 0,
+            "Duration": 0,
+            "Regen": 1800
+        },
+        {
+            "Id": 132,
+            "DropCrateId": 1212,
+            "EffectId": 0,
+            "Duration": 0,
+            "Regen": 1800
+        },
+        {
+            "Id": 133,
+            "DropCrateId": 1213,
+            "EffectId": 0,
+            "Duration": 0,
+            "Regen": 1800
+        },
+        {
+            "Id": 134,
+            "DropCrateId": 1214,
+            "EffectId": 0,
+            "Duration": 0,
+            "Regen": 1800
+        },
+        {
+            "Id": 135,
+            "DropCrateId": 1215,
+            "EffectId": 0,
+            "Duration": 0,
+            "Regen": 1800
+        },
+        {
+            "Id": 136,
+            "DropCrateId": 1216,
+            "EffectId": 0,
+            "Duration": 0,
+            "Regen": 1800
+        },
+        {
+            "Id": 137,
+            "DropCrateId": 1217,
+            "EffectId": 0,
+            "Duration": 0,
+            "Regen": 1800
+        },
+        {
+            "Id": 138,
+            "DropCrateId": 1218,
+            "EffectId": 0,
+            "Duration": 0,
+            "Regen": 1800
         }
     ],
     "Eggs": [

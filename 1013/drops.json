@@ -5022,6 +5022,50 @@
       "Taros": 120,
       "FM": 0,
       "Boosts": 23
+    },
+    {
+      "DropType": 708,
+      "CrateIDs": [
+      80,
+      1201,
+      1202,
+      1203,
+      1204
+      ],
+      "DropChance": 0,
+      "Taros": 48,
+      "FM": 16,
+      "Boosts": 10
+    },
+    {
+      "DropType": 732,
+      "CrateIDs": [
+        1248
+      ],
+      "DropChance": 1,
+      "Taros": 46,
+      "FM": 0,
+      "Boosts": 0
+    },
+    {
+      "DropType": 721,
+      "CrateIDs": [
+        1227
+      ],
+      "DropChance": 1,
+      "Taros": 27,
+      "FM": 45,
+      "Boosts": 0
+    },
+    {
+      "DropType": 722,
+      "CrateIDs": [
+      1229
+      ],
+      "DropChance": 1,
+      "Taros": 7,
+      "FM": 0,
+      "Boosts": 0
     }
   ],
   "RarityRatios": [
@@ -11324,6 +11368,125 @@
         290
       ],
       "RarityRatio": 3
+    },
+    {
+      "Id": 1201,
+      "ItemSets": [
+        292
+      ],
+      "RarityRatio": 0
+    },
+    {
+      "Id": 1202,
+      "ItemSets": [
+        292
+      ],
+      "RarityRatio": 1
+    },
+    {
+      "Id": 1203,
+      "ItemSets": [
+        292
+      ],
+      "RarityRatio": 2
+    },
+    {
+      "Id": 1204,
+      "ItemSets": [
+        292
+      ],
+      "RarityRatio": 3
+    },
+    {
+      "Id": 1248,
+      "ItemSets": [
+        293
+      ],
+      "RarityRatio": 3
+    },
+    {
+      "Id": 1227,
+      "ItemSets": [
+      294
+      ],
+      "RarityRatio": 3
+    },
+    {
+    "Id": 1229,
+    "ItemSets": [
+    295
+    ],
+    "RarityRatio": 3
+    },
+    {
+      "Id": 1209,
+      "ItemSets": [
+      296
+      ],
+      "RarityRatio": 1
+    },
+    {
+      "Id": 1210,
+      "ItemSets": [
+      297
+      ],
+      "RarityRatio": 1
+    },
+    {
+      "Id": 1211,
+      "ItemSets": [
+      298
+      ],
+      "RarityRatio": 1
+    },
+    {
+      "Id": 1212,
+      "ItemSets": [
+      299
+      ],
+      "RarityRatio": 1
+    },
+    {
+      "Id": 1213,
+      "ItemSets": [
+      300
+      ],
+      "RarityRatio": 1
+    },
+    {
+      "Id": 1214,
+      "ItemSets": [
+      301
+      ],
+      "RarityRatio": 1
+    },
+    {
+      "Id": 1215,
+      "ItemSets": [
+      302
+      ],
+      "RarityRatio": 1
+    },
+    {
+      "Id": 1216,
+      "ItemSets": [
+      303
+      ],
+      "RarityRatio": 1
+    },
+    {
+      "Id": 1217,
+      "ItemSets": [
+      304
+      ],
+      "RarityRatio": 1
+    },
+    {
+      "Id": 1218,
+      "ItemSets": [
+      305
+      ],
+      "RarityRatio": 1
     },
     {
       "Id": 1260,
@@ -27869,6 +28032,324 @@
       "Rarity": 3,
       "Type": 4,
       "Id": 170
+    },
+    {
+      "ItemSet": 292,
+      "Rarity": 3,
+      "Type": 1,
+      "Id": 506
+    },
+    {
+      "ItemSet": 292,
+      "Rarity": 3,
+      "Type": 2,
+      "Id": 488 
+    },  
+    {
+      "ItemSet": 292,
+      "Rarity": 3,
+      "Type": 3,
+      "Id": 495 
+    },  
+    {
+      "ItemSet": 292,
+      "Rarity": 3,
+      "Type": 4,
+      "Id": 197
+    },  
+    {
+      "ItemSet": 292,
+      "Rarity": 4,
+      "Type": 0,
+      "Id": 692
+    },
+    {
+      "ItemSet": 292,
+      "Rarity": 1,
+      "Type": 1,
+      "Id": 337
+    },  
+    {
+      "ItemSet": 292,
+      "Rarity": 1,
+      "Type": 2,
+      "Id": 301
+    },  
+    {
+      "ItemSet": 292,
+      "Rarity": 1,
+      "Type": 3,
+      "Id": 319
+    },  
+    {
+      "ItemSet": 292,
+      "Rarity": 1,
+      "Type": 1,
+      "Id": 361
+    },  
+    {
+      "ItemSet": 292,
+      "Rarity": 1,
+      "Type": 3,
+      "Id": 343
+    },  
+    {
+      "ItemSet": 292,
+      "Rarity": 1,
+      "Type": 2,
+      "Id": 337
+    },  
+    {
+      "ItemSet": 292,
+      "Rarity": 2,
+      "Type": 1,
+      "Id": 375
+    },  
+    {
+      "ItemSet": 292,
+      "Rarity": 2,
+      "Type": 0,
+      "Id": 78
+    },  
+    {
+      "ItemSet": 292,
+      "Rarity": 2,
+      "Type": 3,
+      "Id": 365
+    },
+    {
+      "ItemSet": 293,
+      "Rarity": 3,
+      "Type": 4,
+      "Id": 271
+    },
+    {
+      "ItemSet": 293,
+      "Rarity": 3,
+      "Type": 4,
+      "Id": 255
+    },
+    {
+      "ItemSet": 293,
+      "Rarity": 3,
+      "Type": 4,
+      "Id": 256
+    },
+    {
+      "ItemSet": 293,
+      "Rarity": 3,
+      "Type": 4,
+      "Id": 253
+    },
+    {
+      "ItemSet": 293,
+      "Rarity": 3,
+      "Type": 4,
+      "Id": 264
+    },
+    {
+      "ItemSet": 294,
+      "Rarity": 4,
+      "Type": 4,
+      "Id": 241
+    },
+    {
+      "ItemSet": 294,
+      "Rarity": 4,
+      "Type": 1,
+      "Id": 611
+    },
+    {
+      "ItemSet": 294,
+      "Rarity": 4,
+      "Type": 2,
+      "Id": 519
+    },
+    {
+      "ItemSet": 294,
+      "Rarity": 4,
+      "Type": 3,
+      "Id": 526
+    },
+    {
+      "ItemSet": 295,
+      "Rarity": 3,
+      "Type": 4,
+      "Id": 242
+    },
+    {
+      "ItemSet": 295,
+      "Rarity": 3,
+      "Type": 1,
+      "Id": 612
+    },
+    {
+      "ItemSet": 295,
+      "Rarity": 3,
+      "Type": 2,
+      "Id": 520
+    },
+    {
+      "ItemSet": 295,
+      "Rarity": 3,
+      "Type": 3,
+      "Id": 527
+    },
+    {
+      "ItemSet": 295,
+      "Rarity": 3,
+      "Type": 6,
+      "Id": 93
+    },
+    {
+      "ItemSet": 295,
+      "Rarity": 3,
+      "Type": 4,
+      "Id": 243
+    },
+    {
+      "ItemSet": 295,
+      "Rarity": 3,
+      "Type": 1,
+      "Id": 613
+    },
+    {
+      "ItemSet": 295,
+      "Rarity": 3,
+      "Type": 2,
+      "Id": 521
+    },
+    {
+      "ItemSet": 295,
+      "Rarity": 3,
+      "Type": 3,
+      "Id": 528
+    },
+    {
+      "ItemSet": 295,
+      "Rarity": 3,
+      "Type": 6,
+      "Id": 94
+    },
+    {
+      "ItemSet": 295,
+      "Rarity": 3,
+      "Type": 4,
+      "Id": 244
+    },
+    {
+      "ItemSet": 295,
+      "Rarity": 3,
+      "Type": 1,
+      "Id": 614
+    },
+    {
+      "ItemSet": 295,
+      "Rarity": 3,
+      "Type": 2,
+      "Id": 522
+    },
+    {
+      "ItemSet": 295,
+      "Rarity": 3,
+      "Type": 3,
+      "Id": 529
+    },
+    {
+      "ItemSet": 295,
+      "Rarity": 3,
+      "Type": 6,
+      "Id": 95
+    },
+    {
+      "ItemSet": 295,
+      "Rarity": 3,
+      "Type": 4,
+      "Id": 245
+    },
+    {
+      "ItemSet": 295,
+      "Rarity": 3,
+      "Type": 1,
+      "Id": 615
+    },
+    {
+      "ItemSet": 295,
+      "Rarity": 3,
+      "Type": 2,
+      "Id": 523
+    },
+    {
+      "ItemSet": 295,
+      "Rarity": 3,
+      "Type": 3,
+      "Id": 530
+    },
+    {
+      "ItemSet": 295,
+      "Rarity": 3,
+      "Type": 6,
+      "Id": 96
+    },
+    {
+      "ItemSet": 296,
+      "Rarity": 4,
+      "Type": 4,
+      "Id": 220
+    },
+    {
+      "ItemSet": 297,
+      "Rarity": 4,
+      "Type": 1,
+      "Id": 568
+    },
+    {
+      "ItemSet": 298,
+      "Rarity": 4,
+      "Type": 1,
+      "Id": 565
+    },
+    {
+      "ItemSet": 299,
+      "Rarity": 4,
+      "Type": 1,
+      "Id": 575
+    },
+    {
+      "ItemSet": 300,
+      "Rarity": 4,
+      "Type": 1,
+      "Id": 580
+    },
+    {
+      "ItemSet": 301,
+      "Rarity": 4,
+      "Type": 5,
+      "Id": 65
+    },
+    {
+      "ItemSet": 302,
+      "Rarity": 4,
+      "Type": 1,
+      "Id": 566
+    },
+    {
+      "ItemSet": 303,
+      "Rarity": 4,
+      "Type": 1,
+      "Id": 582
+    },
+    {
+      "ItemSet": 304,
+      "Rarity": 4,
+      "Type": 1,
+      "Id": 571
+    },
+    {
+      "ItemSet": 305,
+      "Rarity": 4,
+      "Type": 4,
+      "Id": 221
     }
   ],
   "NanoCapsules": [
