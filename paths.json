@@ -1,6 +1,6 @@
 {
-    "skyway": [
-        {
+    "skyway": {
+        "0": {
             "iRouteID": 60,
             "iMonkeySpeed": 1500,
             "points": [
@@ -41,7 +41,7 @@
                 }
             ]
         },
-        {
+        "1": {
             "iRouteID": 59,
             "iMonkeySpeed": 1500,
             "points": [
@@ -82,7 +82,7 @@
                 }
             ]
         },
-        {
+        "2": {
             "iRouteID": 9,
             "iMonkeySpeed": 1500,
             "points": [
@@ -118,7 +118,7 @@
                 }
             ]
         },
-        {
+        "3": {
             "iRouteID": 10,
             "iMonkeySpeed": 1500,
             "points": [
@@ -154,7 +154,7 @@
                 }
             ]
         },
-        {
+        "4": {
             "iRouteID": 11,
             "iMonkeySpeed": 1500,
             "points": [
@@ -195,7 +195,7 @@
                 }
             ]
         },
-        {
+        "5": {
             "iRouteID": 12,
             "iMonkeySpeed": 1500,
             "points": [
@@ -231,7 +231,7 @@
                 }
             ]
         },
-        {
+        "6": {
             "iRouteID": 49,
             "iMonkeySpeed": 1500,
             "points": [
@@ -267,7 +267,7 @@
                 }
             ]
         },
-        {
+        "7": {
             "iRouteID": 50,
             "iMonkeySpeed": 1500,
             "points": [
@@ -303,7 +303,7 @@
                 }
             ]
         },
-        {
+        "8": {
             "iMonkeySpeed": 1500,
             "iRouteID": 55,
             "points": [
@@ -349,7 +349,7 @@
                 }
             ]
         },
-        {
+        "9": {
             "iMonkeySpeed": 1500,
             "iRouteID": 56,
             "points": [
@@ -400,7 +400,7 @@
                 }
             ]
         },
-        {
+        "10": {
             "iMonkeySpeed": 1500,
             "iRouteID": 61,
             "points": [
@@ -431,7 +431,7 @@
                 }
             ]
         },
-        {
+        "11": {
             "iMonkeySpeed": 1500,
             "iRouteID": 62,
             "points": [
@@ -462,7 +462,7 @@
                 }
             ]
         },
-        {
+        "12": {
             "iMonkeySpeed": 1500,
             "iRouteID": 4,
             "points": [
@@ -508,7 +508,7 @@
                 }
             ]
         },
-        {
+        "13": {
             "iMonkeySpeed": 1500,
             "iRouteID": 7,
             "points": [
@@ -549,7 +549,7 @@
                 }
             ]
         },
-        {
+        "14": {
             "iMonkeySpeed": 1500,
             "iRouteID": 28,
             "points": [
@@ -580,7 +580,7 @@
                 }
             ]
         },
-        {
+        "15": {
             "iMonkeySpeed": 1500,
             "iRouteID": 38,
             "points": [
@@ -611,7 +611,7 @@
                 }
             ]
         },
-        {
+        "16": {
             "iMonkeySpeed": 1500,
             "iRouteID": 21,
             "points": [
@@ -652,7 +652,7 @@
                 }
             ]
         },
-        {
+        "17": {
             "iMonkeySpeed": 1500,
             "iRouteID": 24,
             "points": [
@@ -683,7 +683,7 @@
                 }
             ]
         },
-        {
+        "18": {
             "iMonkeySpeed": 1500,
             "iRouteID": 51,
             "points": [
@@ -719,7 +719,7 @@
                 }
             ]
         },
-        {
+        "19": {
             "iMonkeySpeed": 1500,
             "iRouteID": 52,
             "points": [
@@ -760,7 +760,7 @@
                 }
             ]
         },
-        {
+        "20": {
             "iMonkeySpeed": 1500,
             "iRouteID": 34,
             "points": [
@@ -801,7 +801,7 @@
                 }
             ]
         },
-        {
+        "21": {
             "iMonkeySpeed": 1500,
             "iRouteID": 36,
             "points": [
@@ -837,7 +837,7 @@
                 }
             ]
         },
-        {
+        "22": {
             "iMonkeySpeed": 1500,
             "iRouteID": 53,
             "points": [
@@ -903,7 +903,7 @@
                 }
             ]
         },
-        {
+        "23": {
             "iMonkeySpeed": 1500,
             "iRouteID": 54,
             "points": [
@@ -964,7 +964,7 @@
                 }
             ]
         },
-        {
+        "24": {
             "iMonkeySpeed": 1500,
             "iRouteID": 16,
             "points": [
@@ -1005,7 +1005,7 @@
                 }
             ]
         },
-        {
+        "25": {
             "iMonkeySpeed": 1500,
             "iRouteID": 17,
             "points": [
@@ -1041,7 +1041,7 @@
                 }
             ]
         },
-        {
+        "26": {
             "iMonkeySpeed": 1500,
             "iRouteID": 20,
             "points": [
@@ -1087,7 +1087,7 @@
                 }
             ]
         },
-        {
+        "27": {
             "iMonkeySpeed": 1500,
             "iRouteID": 22,
             "points": [
@@ -1118,7 +1118,7 @@
                 }
             ]
         },
-        {
+        "28": {
             "iMonkeySpeed": 1500,
             "iRouteID": 26,
             "points": [
@@ -1144,7 +1144,7 @@
                 }
             ]
         },
-        {
+        "29": {
             "iMonkeySpeed": 1500,
             "iRouteID": 27,
             "points": [
@@ -1220,7 +1220,7 @@
                 }
             ]
         },
-        {
+        "30": {
             "iMonkeySpeed": 1500,
             "iRouteID": 29,
             "points": [
@@ -1251,7 +1251,7 @@
                 }
             ]
         },
-        {
+        "31": {
             "iMonkeySpeed": 1500,
             "iRouteID": 31,
             "points": [
@@ -1277,7 +1277,7 @@
                 }
             ]
         },
-        {
+        "32": {
             "iMonkeySpeed": 1500,
             "iRouteID": 32,
             "points": [
@@ -1323,7 +1323,7 @@
                 }
             ]
         },
-        {
+        "33": {
             "iMonkeySpeed": 1500,
             "iRouteID": 37,
             "points": [
@@ -1374,7 +1374,7 @@
                 }
             ]
         },
-        {
+        "34": {
             "iMonkeySpeed": 1500,
             "iRouteID": 39,
             "points": [
@@ -1400,7 +1400,7 @@
                 }
             ]
         },
-        {
+        "35": {
             "iMonkeySpeed": 1500,
             "iRouteID": 41,
             "points": [
@@ -1501,7 +1501,7 @@
                 }
             ]
         },
-        {
+        "36": {
             "iMonkeySpeed": 1500,
             "iRouteID": 43,
             "points": [
@@ -1537,7 +1537,7 @@
                 }
             ]
         },
-        {
+        "37": {
             "iMonkeySpeed": 1500,
             "iRouteID": 44,
             "points": [
@@ -1588,7 +1588,7 @@
                 }
             ]
         },
-        {
+        "38": {
             "iMonkeySpeed": 1500,
             "iRouteID": 3,
             "points": [
@@ -1634,7 +1634,7 @@
                 }
             ]
         },
-        {
+        "39": {
             "iMonkeySpeed": 1500,
             "iRouteID": 6,
             "points": [
@@ -1685,7 +1685,7 @@
                 }
             ]
         },
-        {
+        "40": {
             "iMonkeySpeed": 1500,
             "iRouteID": 30,
             "points": [
@@ -1721,7 +1721,7 @@
                 }
             ]
         },
-        {
+        "41": {
             "iMonkeySpeed": 1500,
             "iRouteID": 40,
             "points": [
@@ -1802,7 +1802,7 @@
                 }
             ]
         },
-        {
+        "42": {
             "iMonkeySpeed": 1500,
             "iRouteID": 5,
             "points": [
@@ -1838,7 +1838,7 @@
                 }
             ]
         },
-        {
+        "43": {
             "iMonkeySpeed": 1500,
             "iRouteID": 8,
             "points": [
@@ -1874,7 +1874,7 @@
                 }
             ]
         },
-        {
+        "44": {
             "iMonkeySpeed": 1500,
             "iRouteID": 47,
             "points": [
@@ -1910,7 +1910,7 @@
                 }
             ]
         },
-        {
+        "45": {
             "iMonkeySpeed": 1500,
             "iRouteID": 48,
             "points": [
@@ -1976,7 +1976,7 @@
                 }
             ]
         },
-        {
+        "46": {
             "iMonkeySpeed": 1500,
             "iRouteID": 45,
             "points": [
@@ -2037,7 +2037,7 @@
                 }
             ]
         },
-        {
+        "47": {
             "iMonkeySpeed": 1500,
             "iRouteID": 46,
             "points": [
@@ -2108,7 +2108,7 @@
                 }
             ]
         },
-        {
+        "48": {
             "iMonkeySpeed": 1500,
             "iRouteID": 33,
             "points": [
@@ -2164,7 +2164,7 @@
                 }
             ]
         },
-        {
+        "49": {
             "iMonkeySpeed": 1500,
             "iRouteID": 35,
             "points": [
@@ -2205,7 +2205,7 @@
                 }
             ]
         },
-        {
+        "50": {
             "iMonkeySpeed": 1500,
             "iRouteID": 57,
             "points": [
@@ -2246,7 +2246,7 @@
                 }
             ]
         },
-        {
+        "51": {
             "iMonkeySpeed": 1500,
             "iRouteID": 58,
             "points": [
@@ -2282,7 +2282,7 @@
                 }
             ]
         },
-        {
+        "52": {
             "iMonkeySpeed": 1500,
             "iRouteID": 18,
             "points": [
@@ -2333,7 +2333,7 @@
                 }
             ]
         },
-        {
+        "53": {
             "iMonkeySpeed": 1500,
             "iRouteID": 23,
             "points": [
@@ -2379,7 +2379,7 @@
                 }
             ]
         },
-        {
+        "54": {
             "iMonkeySpeed": 1500,
             "iRouteID": 63,
             "points": [
@@ -2430,7 +2430,7 @@
                 }
             ]
         },
-        {
+        "55": {
             "iMonkeySpeed": 1500,
             "iRouteID": 64,
             "points": [
@@ -2501,7 +2501,7 @@
                 }
             ]
         },
-        {
+        "56": {
             "iMonkeySpeed": 1500,
             "iRouteID": 65,
             "points": [
@@ -2567,7 +2567,7 @@
                 }
             ]
         },
-        {
+        "57": {
             "iMonkeySpeed": 1500,
             "iRouteID": 66,
             "points": [
@@ -2608,7 +2608,7 @@
                 }
             ]
         },
-        {
+        "58": {
             "iMonkeySpeed": 1500,
             "iRouteID": 67,
             "points": [
@@ -2674,7 +2674,7 @@
                 }
             ]
         },
-        {
+        "59": {
             "iMonkeySpeed": 1500,
             "iRouteID": 68,
             "points": [
@@ -2715,7 +2715,7 @@
                 }
             ]
         },
-        {
+        "60": {
             "iMonkeySpeed": 1500,
             "iRouteID": 25,
             "points": [
@@ -2751,7 +2751,7 @@
                 }
             ]
         },
-        {
+        "61": {
             "iMonkeySpeed": 1500,
             "iRouteID": 42,
             "points": [
@@ -2787,7 +2787,7 @@
                 }
             ]
         },
-        {
+        "62": {
             "iMonkeySpeed": 1500,
             "iRouteID": 13,
             "points": [
@@ -2823,7 +2823,7 @@
                 }
             ]
         },
-        {
+        "63": {
             "iMonkeySpeed": 1500,
             "iRouteID": 15,
             "points": [
@@ -2859,7 +2859,7 @@
                 }
             ]
         },
-        {
+        "64": {
             "iMonkeySpeed": 1500,
             "iRouteID": 14,
             "points": [
@@ -2910,7 +2910,7 @@
                 }
             ]
         },
-        {
+        "65": {
             "iMonkeySpeed": 1500,
             "iRouteID": 19,
             "points": [
@@ -2956,395 +2956,395 @@
                 }
             ]
         }
-    ],
-    "slider": [
-        {
+    },
+    "slider": {
+        "0": {
             "iX": 220450,
             "iY": 162484,
             "iZ": -3502,
             "stop": true
         },
-        {
+        "1": {
             "iX": 218113,
             "iY": 162484,
             "iZ": -3502,
             "stop": true
         },
-        {
+        "2": {
             "iX": 218113,
             "iY": 165340,
             "iZ": -3502,
             "stop": false
         },
-        {
+        "3": {
             "iX": 218113,
             "iY": 168311,
             "iZ": -3592,
             "stop": false
         },
-        {
+        "4": {
             "iX": 218125,
             "iY": 226512,
             "iZ": -3593,
             "stop": false
         },
-        {
+        "5": {
             "iX": 218125,
             "iY": 229546,
             "iZ": -3593,
             "stop": true
         },
-        {
+        "6": {
             "iX": 218125,
             "iY": 232512,
             "iZ": -3593,
             "stop": false
         },
-        {
+        "7": {
             "iX": 218115,
             "iY": 268511,
             "iZ": -3590,
             "stop": false
         },
-        {
+        "8": {
             "iX": 218115,
             "iY": 271524,
             "iZ": -3590,
             "stop": true
         },
-        {
+        "9": {
             "iX": 218115,
             "iY": 274511,
             "iZ": -3590,
             "stop": false
         },
-        {
+        "10": {
             "iX": 217897,
             "iY": 290666,
             "iZ": -3580,
             "stop": false
         },
-        {
+        "11": {
             "iX": 251681,
             "iY": 324666,
             "iZ": -3515,
             "stop": false
         },
-        {
+        "12": {
             "iX": 253464,
             "iY": 326520,
             "iZ": -3471,
             "stop": true
         },
-        {
+        "13": {
             "iX": 254333,
             "iY": 327420,
             "iZ": -3471,
             "stop": false
         },
-        {
+        "14": {
             "iX": 256113,
             "iY": 327420,
             "iZ": -3471,
             "stop": false
         },
-        {
+        "15": {
             "iX": 276835,
             "iY": 327402,
             "iZ": -3474,
             "stop": false
         },
-        {
+        "16": {
             "iX": 279882,
             "iY": 327402,
             "iZ": -3474,
             "stop": true
         },
-        {
+        "17": {
             "iX": 282835,
             "iY": 327402,
             "iZ": -3474,
             "stop": false
         },
-        {
+        "18": {
             "iX": 306835,
             "iY": 327400,
             "iZ": -3479,
             "stop": false
         },
-        {
+        "19": {
             "iX": 310827,
             "iY": 327400,
             "iZ": -3479,
             "stop": true
         },
-        {
+        "20": {
             "iX": 314835,
             "iY": 327400,
             "iZ": -3479,
             "stop": false
         },
-        {
+        "21": {
             "iX": 345575,
             "iY": 327315,
             "iZ": -3476,
             "stop": false
         },
-        {
+        "22": {
             "iX": 382880,
             "iY": 364979,
             "iZ": -3509,
             "stop": false
         },
-        {
+        "23": {
             "iX": 384178,
             "iY": 366309,
             "iZ": -3509,
             "stop": false
         },
-        {
+        "24": {
             "iX": 385032,
             "iY": 366309,
             "iZ": -3509,
             "stop": true
         },
-        {
+        "25": {
             "iX": 387912,
             "iY": 366309,
             "iZ": -3509,
             "stop": false
         },
-        {
+        "26": {
             "iX": 412125,
             "iY": 366298,
             "iZ": -3502,
             "stop": false
         },
-        {
+        "27": {
             "iX": 415619,
             "iY": 366298,
             "iZ": -3502,
             "stop": true
         },
-        {
+        "28": {
             "iX": 419125,
             "iY": 366298,
             "iZ": -3502,
             "stop": false
         },
-        {
+        "29": {
             "iX": 466725,
             "iY": 366284,
             "iZ": -3501,
             "stop": false
         },
-        {
+        "30": {
             "iX": 469716,
             "iY": 366284,
             "iZ": -3411,
             "stop": false
         },
-        {
+        "31": {
             "iX": 473964,
             "iY": 366303,
             "iZ": -3411,
             "stop": true
         },
-        {
+        "32": {
             "iX": 473964,
             "iY": 363961,
             "iZ": -3411,
             "stop": true
         },
-        {
+        "33": {
             "iX": 469716,
             "iY": 363961,
             "iZ": -3411,
             "stop": false
         },
-        {
+        "34": {
             "iX": 466725,
             "iY": 363961,
             "iZ": -3501,
             "stop": false
         },
-        {
+        "35": {
             "iX": 419125,
             "iY": 363961,
             "iZ": -3502,
             "stop": false
         },
-        {
+        "36": {
             "iX": 415619,
             "iY": 363961,
             "iZ": -3502,
             "stop": true
         },
-        {
+        "37": {
             "iX": 412125,
             "iY": 363961,
             "iZ": -3502,
             "stop": false
         },
-        {
+        "38": {
             "iX": 389671,
             "iY": 363961,
             "iZ": -3509,
             "stop": false
         },
-        {
+        "39": {
             "iX": 386171,
             "iY": 363961,
             "iZ": -3509,
             "stop": true
         },
-        {
+        "40": {
             "iX": 385147,
             "iY": 363953,
             "iZ": -3509,
             "stop": false
         },
-        {
+        "41": {
             "iX": 383121,
             "iY": 361836,
             "iZ": -3509,
             "stop": false
         },
-        {
+        "42": {
             "iX": 346524,
             "iY": 324937,
             "iZ": -3476,
             "stop": false
         },
-        {
+        "43": {
             "iX": 314835,
             "iY": 325069,
             "iZ": -3479,
             "stop": false
         },
-        {
+        "44": {
             "iX": 310827,
             "iY": 325069,
             "iZ": -3479,
             "stop": true
         },
-        {
+        "45": {
             "iX": 306835,
             "iY": 325069,
             "iZ": -3479,
             "stop": false
         },
-        {
+        "46": {
             "iX": 285935,
             "iY": 325071,
             "iZ": -3474,
             "stop": false
         },
-        {
+        "47": {
             "iX": 281977,
             "iY": 325071,
             "iZ": -3474,
             "stop": true
         },
-        {
+        "48": {
             "iX": 277935,
             "iY": 325071,
             "iZ": -3474,
             "stop": false
         },
-        {
+        "49": {
             "iX": 255919,
             "iY": 325072,
             "iZ": -3471,
             "stop": false
         },
-        {
+        "50": {
             "iX": 255324,
             "iY": 325068,
             "iZ": -3471,
             "stop": false
         },
-        {
+        "51": {
             "iX": 253731,
             "iY": 323420,
             "iZ": -3471,
             "stop": true
         },
-        {
+        "52": {
             "iX": 251137,
             "iY": 320733,
             "iZ": -3471,
             "stop": false
         },
-        {
+        "53": {
             "iX": 220246,
             "iY": 289682,
             "iZ": -3581,
             "stop": false
         },
-        {
+        "54": {
             "iX": 220459,
             "iY": 275958,
             "iZ": -3590,
             "stop": false
         },
-        {
+        "55": {
             "iX": 220459,
             "iY": 275958,
             "iZ": -3590,
             "stop": false
         },
-        {
+        "56": {
             "iX": 220459,
             "iY": 271421,
             "iZ": -3590,
             "stop": true
         },
-        {
+        "57": {
             "iX": 220459,
             "iY": 266958,
             "iZ": -3590,
             "stop": false
         },
-        {
+        "58": {
             "iX": 220456,
             "iY": 232064,
             "iZ": -3593,
             "stop": false
         },
-        {
+        "59": {
             "iX": 220456,
             "iY": 227538,
             "iZ": -3593,
             "stop": true
         },
-        {
+        "60": {
             "iX": 220439,
             "iY": 223094,
             "iZ": -3593,
             "stop": false
         },
-        {
+        "61": {
             "iX": 220441,
             "iY": 166957,
             "iZ": -3593,
             "stop": false
         },
-        {
+        "62": {
             "iX": 220447,
             "iY": 165268,
             "iZ": -3502,
             "stop": false
         },
-        {
+        "63": {
             "iX": 220450,
             "iY": 162484,
             "iZ": -3502,
             "stop": true
         }
-    ],
-    "npc": [
-        {
+    },
+    "npc": {
+        "0": {
             "iNPCID": 447,
             "iBaseSpeed": 1200,
             "points": [
@@ -3416,9 +3416,9 @@
                 }
             ]
         }
-    ],
-    "mob": [
-        {
+    },
+    "mob": {
+        "0": {
             "points": [
                 {
                     "iX": 651860,
@@ -3550,7 +3550,7 @@
             "iBaseSpeed": 300,
             "iNPCType": 454
         },
-        {
+        "1": {
             "points": [
                 {
                     "iX": 754051,
@@ -3658,7 +3658,7 @@
             "iBaseSpeed": 500,
             "iNPCType": 461
         },
-        {
+        "2": {
             "points": [
                 {
                     "iX": 481207,
@@ -3790,7 +3790,7 @@
             "iBaseSpeed": 300,
             "iNPCType": 3285
         },
-        {
+        "3": {
             "points": [
                 {
                     "iX": 267986,
@@ -3892,7 +3892,7 @@
             "iBaseSpeed": 300,
             "iNPCType": 3286
         },
-        {
+        "4": {
             "points": [
                 {
                     "iX": 641205,
@@ -4006,7 +4006,7 @@
             "iBaseSpeed": 300,
             "iNPCType": 3287
         },
-        {
+        "5": {
             "points": [
                 {
                     "iX": 477413,
@@ -4186,5 +4186,5 @@
             "iBaseSpeed": 300,
             "iNPCType": 3288
         }
-    ]
+    }
 }
