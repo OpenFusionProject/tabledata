@@ -1,238 +1,238 @@
 {
-    "mob": {
+    "npc": {
         "0": {
-            "!points": [
+            "!aPoints": [
                 {
                     "iX": 395860,
                     "iY": 376642,
                     "iZ": -5600,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 393258,
                     "iY": 376625,
                     "iZ": -5600,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 393174,
                     "iY": 380674,
                     "iZ": -5600,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 375575,
                     "iY": 380900,
                     "iZ": -5600,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 375550,
                     "iY": 371982,
                     "iZ": -5600,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 377142,
                     "iY": 371965,
                     "iZ": -5600,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 377235,
                     "iY": 357796,
                     "iZ": -5600,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 383680,
                     "iY": 357782,
                     "iZ": -5600,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 384322,
                     "iY": 352412,
                     "iZ": -5600,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 384911,
                     "iY": 348812,
                     "iZ": -5600,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 397933,
                     "iY": 348776,
                     "iZ": -5600,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 397969,
                     "iY": 316837,
                     "iZ": -5600,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 366934,
                     "iY": 316818,
                     "iZ": -5600,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 366821,
                     "iY": 340111,
                     "iZ": -5600,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 371838,
                     "iY": 343117,
                     "iZ": -5600,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 373288,
                     "iY": 344354,
                     "iZ": -5600,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 377097,
                     "iY": 344399,
                     "iZ": -5600,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 377220,
                     "iY": 371896,
                     "iZ": -5600,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 397030,
                     "iY": 371967,
                     "iZ": -5600,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 397239,
                     "iY": 375819,
                     "iZ": -5600,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 395860,
                     "iY": 376642,
                     "iZ": -5600,
-                    "stop": 0
+                    "iStopTicks": 0
                 }
             ]
         },
         "1": {
-            "!points": [
+            "!aPoints": [
                 {
                     "iX": 498051,
                     "iY": 378134,
                     "iZ": -4600,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 498415,
                     "iY": 380583,
                     "iZ": -4600,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 498442,
                     "iY": 389147,
                     "iZ": -4600,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 499138,
                     "iY": 400152,
                     "iZ": -4600,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 498439,
                     "iY": 389220,
                     "iZ": -4600,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 498461,
                     "iY": 380156,
                     "iZ": -4600,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 497077,
                     "iY": 377360,
                     "iZ": -4600,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 494645,
                     "iY": 374724,
                     "iZ": -4600,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 485758,
                     "iY": 374910,
                     "iZ": -4600,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 474784,
                     "iY": 374901,
                     "iZ": -4600,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 469883,
                     "iY": 377866,
                     "iZ": -4600,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 475484,
                     "iY": 370439,
                     "iZ": -4600,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 479455,
                     "iY": 368400,
                     "iZ": -4600,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 483835,
                     "iY": 375149,
                     "iZ": -4600,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 496088,
                     "iY": 374742,
                     "iZ": -4600,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 497224,
                     "iY": 377917,
                     "iZ": -4600,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 498051,
                     "iY": 378134,
                     "iZ": -4600,
-                    "stop": 0
+                    "iStopTicks": 0
                 }
             ]
         }

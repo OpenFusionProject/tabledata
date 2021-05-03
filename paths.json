@@ -3,7 +3,7 @@
         "0": {
             "iRouteID": 60,
             "iMonkeySpeed": 1500,
-            "points": [
+            "aPoints": [
                 {
                     "iX": 224731,
                     "iY": 228845,
@@ -44,7 +44,7 @@
         "1": {
             "iRouteID": 59,
             "iMonkeySpeed": 1500,
-            "points": [
+            "aPoints": [
                 {
                     "iX": 240200,
                     "iY": 263500,
@@ -85,7 +85,7 @@
         "2": {
             "iRouteID": 9,
             "iMonkeySpeed": 1500,
-            "points": [
+            "aPoints": [
                 {
                     "iX": 680556,
                     "iY": 122999,
@@ -121,7 +121,7 @@
         "3": {
             "iRouteID": 10,
             "iMonkeySpeed": 1500,
-            "points": [
+            "aPoints": [
                 {
                     "iX": 680561,
                     "iY": 122887,
@@ -157,7 +157,7 @@
         "4": {
             "iRouteID": 11,
             "iMonkeySpeed": 1500,
-            "points": [
+            "aPoints": [
                 {
                     "iX": 595352,
                     "iY": 76400,
@@ -198,7 +198,7 @@
         "5": {
             "iRouteID": 12,
             "iMonkeySpeed": 1500,
-            "points": [
+            "aPoints": [
                 {
                     "iX": 732799,
                     "iY": 92778,
@@ -234,7 +234,7 @@
         "6": {
             "iRouteID": 49,
             "iMonkeySpeed": 1500,
-            "points": [
+            "aPoints": [
                 {
                     "iX": 680561,
                     "iY": 122887,
@@ -270,7 +270,7 @@
         "7": {
             "iRouteID": 50,
             "iMonkeySpeed": 1500,
-            "points": [
+            "aPoints": [
                 {
                     "iX": 700540,
                     "iY": 90462,
@@ -306,7 +306,7 @@
         "8": {
             "iMonkeySpeed": 1500,
             "iRouteID": 55,
-            "points": [
+            "aPoints": [
                 {
                     "iX": 231252,
                     "iY": 355038,
@@ -352,7 +352,7 @@
         "9": {
             "iMonkeySpeed": 1500,
             "iRouteID": 56,
-            "points": [
+            "aPoints": [
                 {
                     "iX": 283908,
                     "iY": 367539,
@@ -403,7 +403,7 @@
         "10": {
             "iMonkeySpeed": 1500,
             "iRouteID": 61,
-            "points": [
+            "aPoints": [
                 {
                     "iX": 217654,
                     "iY": 113098,
@@ -434,7 +434,7 @@
         "11": {
             "iMonkeySpeed": 1500,
             "iRouteID": 62,
-            "points": [
+            "aPoints": [
                 {
                     "iX": 284452,
                     "iY": 136645,
@@ -465,7 +465,7 @@
         "12": {
             "iMonkeySpeed": 1500,
             "iRouteID": 4,
-            "points": [
+            "aPoints": [
                 {
                     "iX": 536862,
                     "iY": 534199,
@@ -511,7 +511,7 @@
         "13": {
             "iMonkeySpeed": 1500,
             "iRouteID": 7,
-            "points": [
+            "aPoints": [
                 {
                     "iX": 631078,
                     "iY": 499699,
@@ -552,7 +552,7 @@
         "14": {
             "iMonkeySpeed": 1500,
             "iRouteID": 28,
-            "points": [
+            "aPoints": [
                 {
                     "iX": 178328,
                     "iY": 267447,
@@ -583,7 +583,7 @@
         "15": {
             "iMonkeySpeed": 1500,
             "iRouteID": 38,
-            "points": [
+            "aPoints": [
                 {
                     "iX": 328218,
                     "iY": 275471,
@@ -614,7 +614,7 @@
         "16": {
             "iMonkeySpeed": 1500,
             "iRouteID": 21,
-            "points": [
+            "aPoints": [
                 {
                     "iX": 341559,
                     "iY": 331048,
@@ -655,7 +655,7 @@
         "17": {
             "iMonkeySpeed": 1500,
             "iRouteID": 24,
-            "points": [
+            "aPoints": [
                 {
                     "iX": 231244,
                     "iY": 355004,
@@ -686,7 +686,7 @@
         "18": {
             "iMonkeySpeed": 1500,
             "iRouteID": 51,
-            "points": [
+            "aPoints": [
                 {
                     "iX": 171784,
                     "iY": 325269,
@@ -722,7 +722,7 @@
         "19": {
             "iMonkeySpeed": 1500,
             "iRouteID": 52,
-            "points": [
+            "aPoints": [
                 {
                     "iX": 231101,
                     "iY": 355019,
@@ -763,7 +763,7 @@
         "20": {
             "iMonkeySpeed": 1500,
             "iRouteID": 34,
-            "points": [
+            "aPoints": [
                 {
                     "iX": 315877,
                     "iY": 190979,
@@ -804,7 +804,7 @@
         "21": {
             "iMonkeySpeed": 1500,
             "iRouteID": 36,
-            "points": [
+            "aPoints": [
                 {
                     "iX": 328251,
                     "iY": 275650,
@@ -840,7 +840,7 @@
         "22": {
             "iMonkeySpeed": 1500,
             "iRouteID": 53,
-            "points": [
+            "aPoints": [
                 {
                     "iX": 479412,
                     "iY": 434081,
@@ -906,7 +906,7 @@
         "23": {
             "iMonkeySpeed": 1500,
             "iRouteID": 54,
-            "points": [
+            "aPoints": [
                 {
                     "iX": 503386,
                     "iY": 532441,
@@ -967,7 +967,7 @@
         "24": {
             "iMonkeySpeed": 1500,
             "iRouteID": 16,
-            "points": [
+            "aPoints": [
                 {
                     "iX": 429859,
                     "iY": 381490,
@@ -1008,7 +1008,7 @@
         "25": {
             "iMonkeySpeed": 1500,
             "iRouteID": 17,
-            "points": [
+            "aPoints": [
                 {
                     "iX": 429716,
                     "iY": 381418,
@@ -1044,7 +1044,7 @@
         "26": {
             "iMonkeySpeed": 1500,
             "iRouteID": 20,
-            "points": [
+            "aPoints": [
                 {
                     "iX": 341493,
                     "iY": 331079,
@@ -1090,7 +1090,7 @@
         "27": {
             "iMonkeySpeed": 1500,
             "iRouteID": 22,
-            "points": [
+            "aPoints": [
                 {
                     "iX": 479451,
                     "iY": 348187,
@@ -1121,7 +1121,7 @@
         "28": {
             "iMonkeySpeed": 1500,
             "iRouteID": 26,
-            "points": [
+            "aPoints": [
                 {
                     "iX": 178420,
                     "iY": 267589,
@@ -1147,7 +1147,7 @@
         "29": {
             "iMonkeySpeed": 1500,
             "iRouteID": 27,
-            "points": [
+            "aPoints": [
                 {
                     "iX": 178461,
                     "iY": 267464,
@@ -1223,7 +1223,7 @@
         "30": {
             "iMonkeySpeed": 1500,
             "iRouteID": 29,
-            "points": [
+            "aPoints": [
                 {
                     "iX": 224782,
                     "iY": 228818,
@@ -1254,7 +1254,7 @@
         "31": {
             "iMonkeySpeed": 1500,
             "iRouteID": 31,
-            "points": [
+            "aPoints": [
                 {
                     "iX": 224687,
                     "iY": 228927,
@@ -1280,7 +1280,7 @@
         "32": {
             "iMonkeySpeed": 1500,
             "iRouteID": 32,
-            "points": [
+            "aPoints": [
                 {
                     "iX": 224687,
                     "iY": 228961,
@@ -1326,7 +1326,7 @@
         "33": {
             "iMonkeySpeed": 1500,
             "iRouteID": 37,
-            "points": [
+            "aPoints": [
                 {
                     "iX": 328255,
                     "iY": 275659,
@@ -1377,7 +1377,7 @@
         "34": {
             "iMonkeySpeed": 1500,
             "iRouteID": 39,
-            "points": [
+            "aPoints": [
                 {
                     "iX": 277702,
                     "iY": 229956,
@@ -1403,7 +1403,7 @@
         "35": {
             "iMonkeySpeed": 1500,
             "iRouteID": 41,
-            "points": [
+            "aPoints": [
                 {
                     "iX": 217660,
                     "iY": 113177,
@@ -1504,7 +1504,7 @@
         "36": {
             "iMonkeySpeed": 1500,
             "iRouteID": 43,
-            "points": [
+            "aPoints": [
                 {
                     "iX": 503456,
                     "iY": 532497,
@@ -1540,7 +1540,7 @@
         "37": {
             "iMonkeySpeed": 1500,
             "iRouteID": 44,
-            "points": [
+            "aPoints": [
                 {
                     "iX": 536922,
                     "iY": 534260,
@@ -1591,7 +1591,7 @@
         "38": {
             "iMonkeySpeed": 1500,
             "iRouteID": 3,
-            "points": [
+            "aPoints": [
                 {
                     "iX": 536862,
                     "iY": 534292,
@@ -1637,7 +1637,7 @@
         "39": {
             "iMonkeySpeed": 1500,
             "iRouteID": 6,
-            "points": [
+            "aPoints": [
                 {
                     "iX": 608045,
                     "iY": 445588,
@@ -1688,7 +1688,7 @@
         "40": {
             "iMonkeySpeed": 1500,
             "iRouteID": 30,
-            "points": [
+            "aPoints": [
                 {
                     "iX": 224603,
                     "iY": 228903,
@@ -1724,7 +1724,7 @@
         "41": {
             "iMonkeySpeed": 1500,
             "iRouteID": 40,
-            "points": [
+            "aPoints": [
                 {
                     "iX": 217720,
                     "iY": 113115,
@@ -1805,7 +1805,7 @@
         "42": {
             "iMonkeySpeed": 1500,
             "iRouteID": 5,
-            "points": [
+            "aPoints": [
                 {
                     "iX": 536932,
                     "iY": 534325,
@@ -1841,7 +1841,7 @@
         "43": {
             "iMonkeySpeed": 1500,
             "iRouteID": 8,
-            "points": [
+            "aPoints": [
                 {
                     "iX": 605117,
                     "iY": 538504,
@@ -1877,7 +1877,7 @@
         "44": {
             "iMonkeySpeed": 1500,
             "iRouteID": 47,
-            "points": [
+            "aPoints": [
                 {
                     "iX": 469697,
                     "iY": 608666,
@@ -1913,7 +1913,7 @@
         "45": {
             "iMonkeySpeed": 1500,
             "iRouteID": 48,
-            "points": [
+            "aPoints": [
                 {
                     "iX": 484044,
                     "iY": 695558,
@@ -1979,7 +1979,7 @@
         "46": {
             "iMonkeySpeed": 1500,
             "iRouteID": 45,
-            "points": [
+            "aPoints": [
                 {
                     "iX": 536905,
                     "iY": 534299,
@@ -2040,7 +2040,7 @@
         "47": {
             "iMonkeySpeed": 1500,
             "iRouteID": 46,
-            "points": [
+            "aPoints": [
                 {
                     "iX": 469678,
                     "iY": 608855,
@@ -2111,7 +2111,7 @@
         "48": {
             "iMonkeySpeed": 1500,
             "iRouteID": 33,
-            "points": [
+            "aPoints": [
                 {
                     "iX": 224676,
                     "iY": 228913,
@@ -2167,7 +2167,7 @@
         "49": {
             "iMonkeySpeed": 1500,
             "iRouteID": 35,
-            "points": [
+            "aPoints": [
                 {
                     "iX": 315678,
                     "iY": 190794,
@@ -2208,7 +2208,7 @@
         "50": {
             "iMonkeySpeed": 1500,
             "iRouteID": 57,
-            "points": [
+            "aPoints": [
                 {
                     "iX": 429727,
                     "iY": 381366,
@@ -2249,7 +2249,7 @@
         "51": {
             "iMonkeySpeed": 1500,
             "iRouteID": 58,
-            "points": [
+            "aPoints": [
                 {
                     "iX": 444813,
                     "iY": 346594,
@@ -2285,7 +2285,7 @@
         "52": {
             "iMonkeySpeed": 1500,
             "iRouteID": 18,
-            "points": [
+            "aPoints": [
                 {
                     "iX": 429742,
                     "iY": 381341,
@@ -2336,7 +2336,7 @@
         "53": {
             "iMonkeySpeed": 1500,
             "iRouteID": 23,
-            "points": [
+            "aPoints": [
                 {
                     "iX": 479519,
                     "iY": 433968,
@@ -2382,7 +2382,7 @@
         "54": {
             "iMonkeySpeed": 1500,
             "iRouteID": 63,
-            "points": [
+            "aPoints": [
                 {
                     "iX": 316750,
                     "iY": 533167,
@@ -2433,7 +2433,7 @@
         "55": {
             "iMonkeySpeed": 1500,
             "iRouteID": 64,
-            "points": [
+            "aPoints": [
                 {
                     "iX": 316686,
                     "iY": 533114,
@@ -2504,7 +2504,7 @@
         "56": {
             "iMonkeySpeed": 1500,
             "iRouteID": 65,
-            "points": [
+            "aPoints": [
                 {
                     "iX": 230280,
                     "iY": 623525,
@@ -2570,7 +2570,7 @@
         "57": {
             "iMonkeySpeed": 1500,
             "iRouteID": 66,
-            "points": [
+            "aPoints": [
                 {
                     "iX": 230250,
                     "iY": 623528,
@@ -2611,7 +2611,7 @@
         "58": {
             "iMonkeySpeed": 1500,
             "iRouteID": 67,
-            "points": [
+            "aPoints": [
                 {
                     "iX": 195452,
                     "iY": 672331,
@@ -2677,7 +2677,7 @@
         "59": {
             "iMonkeySpeed": 1500,
             "iRouteID": 68,
-            "points": [
+            "aPoints": [
                 {
                     "iX": 195452,
                     "iY": 672331,
@@ -2718,7 +2718,7 @@
         "60": {
             "iMonkeySpeed": 1500,
             "iRouteID": 25,
-            "points": [
+            "aPoints": [
                 {
                     "iX": 178412,
                     "iY": 267450,
@@ -2754,7 +2754,7 @@
         "61": {
             "iMonkeySpeed": 1500,
             "iRouteID": 42,
-            "points": [
+            "aPoints": [
                 {
                     "iX": 146157,
                     "iY": 213671,
@@ -2790,7 +2790,7 @@
         "62": {
             "iMonkeySpeed": 1500,
             "iRouteID": 13,
-            "points": [
+            "aPoints": [
                 {
                     "iX": 385900,
                     "iY": 434662,
@@ -2826,7 +2826,7 @@
         "63": {
             "iMonkeySpeed": 1500,
             "iRouteID": 15,
-            "points": [
+            "aPoints": [
                 {
                     "iX": 429732,
                     "iY": 381375,
@@ -2862,7 +2862,7 @@
         "64": {
             "iMonkeySpeed": 1500,
             "iRouteID": 14,
-            "points": [
+            "aPoints": [
                 {
                     "iX": 385865,
                     "iY": 434575,
@@ -2913,7 +2913,7 @@
         "65": {
             "iMonkeySpeed": 1500,
             "iRouteID": 19,
-            "points": [
+            "aPoints": [
                 {
                     "iX": 341495,
                     "iY": 331063,
@@ -2962,1229 +2962,1173 @@
             "iX": 220450,
             "iY": 162484,
             "iZ": -3502,
-            "stop": true
+            "bStop": true
         },
         "01": {
             "iX": 218113,
             "iY": 162484,
             "iZ": -3502,
-            "stop": true
+            "bStop": true
         },
         "02": {
             "iX": 218113,
             "iY": 165340,
             "iZ": -3502,
-            "stop": false
+            "bStop": false
         },
         "03": {
             "iX": 218113,
             "iY": 168311,
             "iZ": -3592,
-            "stop": false
+            "bStop": false
         },
         "04": {
             "iX": 218125,
             "iY": 226512,
             "iZ": -3593,
-            "stop": false
+            "bStop": false
         },
         "05": {
             "iX": 218125,
             "iY": 229546,
             "iZ": -3593,
-            "stop": true
+            "bStop": true
         },
         "06": {
             "iX": 218125,
             "iY": 232512,
             "iZ": -3593,
-            "stop": false
+            "bStop": false
         },
         "07": {
             "iX": 218115,
             "iY": 268511,
             "iZ": -3590,
-            "stop": false
+            "bStop": false
         },
         "08": {
             "iX": 218115,
             "iY": 271524,
             "iZ": -3590,
-            "stop": true
+            "bStop": true
         },
         "09": {
             "iX": 218115,
             "iY": 274511,
             "iZ": -3590,
-            "stop": false
+            "bStop": false
         },
         "10": {
             "iX": 217897,
             "iY": 290666,
             "iZ": -3580,
-            "stop": false
+            "bStop": false
         },
         "11": {
             "iX": 251681,
             "iY": 324666,
             "iZ": -3515,
-            "stop": false
+            "bStop": false
         },
         "12": {
             "iX": 253464,
             "iY": 326520,
             "iZ": -3471,
-            "stop": true
+            "bStop": true
         },
         "13": {
             "iX": 254333,
             "iY": 327420,
             "iZ": -3471,
-            "stop": false
+            "bStop": false
         },
         "14": {
             "iX": 256113,
             "iY": 327420,
             "iZ": -3471,
-            "stop": false
+            "bStop": false
         },
         "15": {
             "iX": 276835,
             "iY": 327402,
             "iZ": -3474,
-            "stop": false
+            "bStop": false
         },
         "16": {
             "iX": 279882,
             "iY": 327402,
             "iZ": -3474,
-            "stop": true
+            "bStop": true
         },
         "17": {
             "iX": 282835,
             "iY": 327402,
             "iZ": -3474,
-            "stop": false
+            "bStop": false
         },
         "18": {
             "iX": 306835,
             "iY": 327400,
             "iZ": -3479,
-            "stop": false
+            "bStop": false
         },
         "19": {
             "iX": 310827,
             "iY": 327400,
             "iZ": -3479,
-            "stop": true
+            "bStop": true
         },
         "20": {
             "iX": 314835,
             "iY": 327400,
             "iZ": -3479,
-            "stop": false
+            "bStop": false
         },
         "21": {
             "iX": 345575,
             "iY": 327315,
             "iZ": -3476,
-            "stop": false
+            "bStop": false
         },
         "22": {
             "iX": 382880,
             "iY": 364979,
             "iZ": -3509,
-            "stop": false
+            "bStop": false
         },
         "23": {
             "iX": 384178,
             "iY": 366309,
             "iZ": -3509,
-            "stop": false
+            "bStop": false
         },
         "24": {
             "iX": 385032,
             "iY": 366309,
             "iZ": -3509,
-            "stop": true
+            "bStop": true
         },
         "25": {
             "iX": 387912,
             "iY": 366309,
             "iZ": -3509,
-            "stop": false
+            "bStop": false
         },
         "26": {
             "iX": 412125,
             "iY": 366298,
             "iZ": -3502,
-            "stop": false
+            "bStop": false
         },
         "27": {
             "iX": 415619,
             "iY": 366298,
             "iZ": -3502,
-            "stop": true
+            "bStop": true
         },
         "28": {
             "iX": 419125,
             "iY": 366298,
             "iZ": -3502,
-            "stop": false
+            "bStop": false
         },
         "29": {
             "iX": 466725,
             "iY": 366284,
             "iZ": -3501,
-            "stop": false
+            "bStop": false
         },
         "30": {
             "iX": 469716,
             "iY": 366284,
             "iZ": -3411,
-            "stop": false
+            "bStop": false
         },
         "31": {
             "iX": 473964,
             "iY": 366303,
             "iZ": -3411,
-            "stop": true
+            "bStop": true
         },
         "32": {
             "iX": 473964,
             "iY": 363961,
             "iZ": -3411,
-            "stop": true
+            "bStop": true
         },
         "33": {
             "iX": 469716,
             "iY": 363961,
             "iZ": -3411,
-            "stop": false
+            "bStop": false
         },
         "34": {
             "iX": 466725,
             "iY": 363961,
             "iZ": -3501,
-            "stop": false
+            "bStop": false
         },
         "35": {
             "iX": 419125,
             "iY": 363961,
             "iZ": -3502,
-            "stop": false
+            "bStop": false
         },
         "36": {
             "iX": 415619,
             "iY": 363961,
             "iZ": -3502,
-            "stop": true
+            "bStop": true
         },
         "37": {
             "iX": 412125,
             "iY": 363961,
             "iZ": -3502,
-            "stop": false
+            "bStop": false
         },
         "38": {
             "iX": 389671,
             "iY": 363961,
             "iZ": -3509,
-            "stop": false
+            "bStop": false
         },
         "39": {
             "iX": 386171,
             "iY": 363961,
             "iZ": -3509,
-            "stop": true
+            "bStop": true
         },
         "40": {
             "iX": 385147,
             "iY": 363953,
             "iZ": -3509,
-            "stop": false
+            "bStop": false
         },
         "41": {
             "iX": 383121,
             "iY": 361836,
             "iZ": -3509,
-            "stop": false
+            "bStop": false
         },
         "42": {
             "iX": 346524,
             "iY": 324937,
             "iZ": -3476,
-            "stop": false
+            "bStop": false
         },
         "43": {
             "iX": 314835,
             "iY": 325069,
             "iZ": -3479,
-            "stop": false
+            "bStop": false
         },
         "44": {
             "iX": 310827,
             "iY": 325069,
             "iZ": -3479,
-            "stop": true
+            "bStop": true
         },
         "45": {
             "iX": 306835,
             "iY": 325069,
             "iZ": -3479,
-            "stop": false
+            "bStop": false
         },
         "46": {
             "iX": 285935,
             "iY": 325071,
             "iZ": -3474,
-            "stop": false
+            "bStop": false
         },
         "47": {
             "iX": 281977,
             "iY": 325071,
             "iZ": -3474,
-            "stop": true
+            "bStop": true
         },
         "48": {
             "iX": 277935,
             "iY": 325071,
             "iZ": -3474,
-            "stop": false
+            "bStop": false
         },
         "49": {
             "iX": 255919,
             "iY": 325072,
             "iZ": -3471,
-            "stop": false
+            "bStop": false
         },
         "50": {
             "iX": 255324,
             "iY": 325068,
             "iZ": -3471,
-            "stop": false
+            "bStop": false
         },
         "51": {
             "iX": 253731,
             "iY": 323420,
             "iZ": -3471,
-            "stop": true
+            "bStop": true
         },
         "52": {
             "iX": 251137,
             "iY": 320733,
             "iZ": -3471,
-            "stop": false
+            "bStop": false
         },
         "53": {
             "iX": 220246,
             "iY": 289682,
             "iZ": -3581,
-            "stop": false
+            "bStop": false
         },
         "54": {
             "iX": 220459,
             "iY": 275958,
             "iZ": -3590,
-            "stop": false
+            "bStop": false
         },
         "55": {
             "iX": 220459,
             "iY": 275958,
             "iZ": -3590,
-            "stop": false
+            "bStop": false
         },
         "56": {
             "iX": 220459,
             "iY": 271421,
             "iZ": -3590,
-            "stop": true
+            "bStop": true
         },
         "57": {
             "iX": 220459,
             "iY": 266958,
             "iZ": -3590,
-            "stop": false
+            "bStop": false
         },
         "58": {
             "iX": 220456,
             "iY": 232064,
             "iZ": -3593,
-            "stop": false
+            "bStop": false
         },
         "59": {
             "iX": 220456,
             "iY": 227538,
             "iZ": -3593,
-            "stop": true
+            "bStop": true
         },
         "60": {
             "iX": 220439,
             "iY": 223094,
             "iZ": -3593,
-            "stop": false
+            "bStop": false
         },
         "61": {
             "iX": 220441,
             "iY": 166957,
             "iZ": -3593,
-            "stop": false
+            "bStop": false
         },
         "62": {
             "iX": 220447,
             "iY": 165268,
             "iZ": -3502,
-            "stop": false
+            "bStop": false
         },
         "63": {
             "iX": 220450,
             "iY": 162484,
             "iZ": -3502,
-            "stop": true
+            "bStop": true
         }
     },
     "npc": {
         "0": {
-            "iNPCID": 447,
-            "iBaseSpeed": 1200,
-            "points": [
-                {
-                    "iX": 255224,
-                    "iY": 111623,
-                    "iZ": -5053,
-                    "stop": 0
-                },
-                {
-                    "iX": 243053,
-                    "iY": 111590,
-                    "iZ": -5052,
-                    "stop": 0
-                },
-                {
-                    "iX": 243141,
-                    "iY": 131674,
-                    "iZ": -5049,
-                    "stop": 0
-                },
-                {
-                    "iX": 265854,
-                    "iY": 131639,
-                    "iZ": -5051,
-                    "stop": 0
-                },
-                {
-                    "iX": 265865,
-                    "iY": 124728,
-                    "iZ": -5044,
-                    "stop": 0
-                },
-                {
-                    "iX": 265375,
-                    "iY": 122482,
-                    "iZ": -5051,
-                    "stop": 0
-                },
-                {
-                    "iX": 265878,
-                    "iY": 120483,
-                    "iZ": -5046,
-                    "stop": 0
-                },
-                {
-                    "iX": 265358,
-                    "iY": 116589,
-                    "iZ": -5053,
-                    "stop": 0
-                },
-                {
-                    "iX": 265875,
-                    "iY": 114489,
-                    "iZ": -5053,
-                    "stop": 10
-                },
-                {
-                    "iX": 265646,
-                    "iY": 111598,
-                    "iZ": -5052,
-                    "stop": 0
-                },
-                {
-                    "iX": 255224,
-                    "iY": 111623,
-                    "iZ": -5053,
-                    "stop": 0
-                }
-            ]
-        }
-    },
-    "mob": {
-        "0": {
-            "points": [
+            "aNPCTypes": [
+                454
+            ],
+            "aNPCIDs": [],
+            "iBaseSpeed": 300,
+            "aPoints": [
                 {
                     "iX": 651860,
                     "iY": 120642,
                     "iZ": -5600,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 649258,
                     "iY": 120625,
                     "iZ": -5600,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 649174,
                     "iY": 124674,
                     "iZ": -5600,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 631575,
                     "iY": 124900,
                     "iZ": -5600,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 631550,
                     "iY": 115982,
                     "iZ": -5600,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 633142,
                     "iY": 115965,
                     "iZ": -5600,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 633235,
                     "iY": 101796,
                     "iZ": -5600,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 639680,
                     "iY": 101782,
                     "iZ": -5600,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 640322,
                     "iY": 96412,
                     "iZ": -5600,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 640911,
                     "iY": 92812,
                     "iZ": -5600,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 653933,
                     "iY": 92776,
                     "iZ": -5600,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 653969,
                     "iY": 60837,
                     "iZ": -5600,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 622934,
                     "iY": 60818,
                     "iZ": -5600,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 622821,
                     "iY": 84111,
                     "iZ": -5600,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 627838,
                     "iY": 87117,
                     "iZ": -5600,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 629288,
                     "iY": 88354,
                     "iZ": -5600,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 633097,
                     "iY": 88399,
                     "iZ": -5600,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 633220,
                     "iY": 115896,
                     "iZ": -5600,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 653030,
                     "iY": 115967,
                     "iZ": -5600,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 653239,
                     "iY": 119819,
                     "iZ": -5600,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 651860,
                     "iY": 120642,
                     "iZ": -5600,
-                    "stop": 0
+                    "iStopTicks": 0
                 }
-            ],
-            "iBaseSpeed": 300,
-            "iNPCType": 454
+            ]
         },
         "1": {
-            "points": [
+            "aNPCTypes": [
+                461
+            ],
+            "aNPCIDs": [],
+            "iBaseSpeed": 500,
+            "aPoints": [
                 {
                     "iX": 754051,
                     "iY": 122134,
                     "iZ": -4600,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 754415,
                     "iY": 124583,
                     "iZ": -4600,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 754442,
                     "iY": 133147,
                     "iZ": -4600,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 755138,
                     "iY": 144152,
                     "iZ": -4600,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 754439,
                     "iY": 133220,
                     "iZ": -4600,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 754461,
                     "iY": 124156,
                     "iZ": -4600,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 753077,
                     "iY": 121360,
                     "iZ": -4600,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 750645,
                     "iY": 118724,
                     "iZ": -4600,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 741758,
                     "iY": 118910,
                     "iZ": -4600,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 730784,
                     "iY": 118901,
                     "iZ": -4600,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 725883,
                     "iY": 121866,
                     "iZ": -4600,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 731484,
                     "iY": 114439,
                     "iZ": -4600,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 735455,
                     "iY": 112400,
                     "iZ": -4600,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 739835,
                     "iY": 119149,
                     "iZ": -4600,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 752088,
                     "iY": 118742,
                     "iZ": -4600,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 753224,
                     "iY": 121917,
                     "iZ": -4600,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 754051,
                     "iY": 122134,
                     "iZ": -4600,
-                    "stop": 0
+                    "iStopTicks": 0
                 }
-            ],
-            "iBaseSpeed": 500,
-            "iNPCType": 461
+            ]
         },
         "2": {
-            "points": [
+            "aNPCTypes": [
+                3285
+            ],
+            "aNPCIDs": [],
+            "iBaseSpeed": 300,
+            "aPoints": [
                 {
                     "iX": 481207,
                     "iY": 551212,
                     "iZ": -5021,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 498375,
                     "iY": 552294,
                     "iZ": -5183,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 499901,
                     "iY": 552060,
                     "iZ": -5062,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 505281,
                     "iY": 549007,
                     "iZ": -4847,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 506127,
                     "iY": 548066,
                     "iZ": -3962,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 506408,
                     "iY": 543626,
                     "iZ": -5075,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 503766,
                     "iY": 544971,
                     "iZ": -5229,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 495313,
                     "iY": 545491,
                     "iZ": -5272,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 494768,
                     "iY": 545869,
                     "iZ": -5247,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 491572,
                     "iY": 545233,
                     "iZ": -5141,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 490674,
                     "iY": 544885,
                     "iZ": -5240,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 486457,
                     "iY": 543965,
                     "iZ": -5240,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 477190,
                     "iY": 542769,
                     "iZ": -5248,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 475610,
                     "iY": 544108,
                     "iZ": -5441,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 467295,
                     "iY": 542940,
                     "iZ": -4963,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 466775,
                     "iY": 543670,
                     "iZ": -4518,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 465843,
                     "iY": 547875,
                     "iZ": -4678,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 469090,
                     "iY": 549535,
                     "iZ": -5242,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 474603,
                     "iY": 550188,
                     "iZ": -5181,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 477056,
                     "iY": 550381,
                     "iZ": -5142,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 481207,
                     "iY": 551212,
                     "iZ": -5021,
-                    "stop": 0
+                    "iStopTicks": 0
                 }
-            ],
-            "iBaseSpeed": 300,
-            "iNPCType": 3285
+            ]
         },
         "3": {
-            "points": [
+            "aNPCTypes": [
+                3286
+            ],
+            "aNPCIDs": [],
+            "iBaseSpeed": 300,
+            "aPoints": [
                 {
                     "iX": 267986,
                     "iY": 104963,
                     "iZ": -5972,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 265028,
                     "iY": 104825,
                     "iZ": -5971,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 256683,
                     "iY": 105429,
                     "iZ": -5962,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 256070,
                     "iY": 106793,
                     "iZ": -5955,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 256179,
                     "iY": 108274,
                     "iZ": -5782,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 259777,
                     "iY": 111072,
                     "iZ": -5047,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 264586,
                     "iY": 112130,
                     "iZ": -5030,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 268765,
                     "iY": 115130,
                     "iZ": -5077,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 270159,
                     "iY": 116842,
                     "iZ": -5132,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 270560,
                     "iY": 118780,
                     "iZ": -5031,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 273139,
                     "iY": 122969,
                     "iZ": -4958,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 277341,
                     "iY": 121571,
                     "iZ": -5797,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 277145,
                     "iY": 113095,
                     "iZ": -5929,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 276254,
                     "iY": 111246,
                     "iZ": -5929,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 271737,
                     "iY": 108309,
                     "iZ": -5971,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 267986,
                     "iY": 104963,
                     "iZ": -5972,
-                    "stop": 0
+                    "iStopTicks": 0
                 }
-            ],
-            "iBaseSpeed": 300,
-            "iNPCType": 3286
+            ]
         },
         "4": {
-            "points": [
+            "aNPCTypes": [
+                3287
+            ],
+            "aNPCIDs": [],
+            "iBaseSpeed": 300,
+            "aPoints": [
                 {
                     "iX": 641205,
                     "iY": 483989,
                     "iZ": -7977,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 641777,
                     "iY": 474835,
                     "iZ": -7977,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 640175,
                     "iY": 469055,
                     "iZ": -7943,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 643558,
                     "iY": 466552,
                     "iZ": -7977,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 649540,
                     "iY": 465991,
                     "iZ": -7920,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 651331,
                     "iY": 467275,
                     "iZ": -7977,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 650890,
                     "iY": 474613,
                     "iZ": -7977,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 650892,
                     "iY": 475916,
                     "iZ": -7977,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 651295,
                     "iY": 476672,
                     "iZ": -7977,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 659913,
                     "iY": 478499,
                     "iZ": -7974,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 656908,
                     "iY": 500615,
                     "iZ": -7852,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 655957,
                     "iY": 506492,
                     "iZ": -7963,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 651945,
                     "iY": 505560,
                     "iZ": -7915,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 653438,
                     "iY": 494220,
                     "iZ": -7977,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 653770,
                     "iY": 488521,
                     "iZ": -7974,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 644737,
                     "iY": 488078,
                     "iZ": -7923,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 641579,
                     "iY": 487230,
                     "iZ": -7915,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 641205,
                     "iY": 483989,
                     "iZ": -7977,
-                    "stop": 0
+                    "iStopTicks": 0
                 }
-            ],
-            "iBaseSpeed": 300,
-            "iNPCType": 3287
+            ]
         },
         "5": {
-            "points": [
+            "aNPCTypes": [
+                3288
+            ],
+            "aNPCIDs": [],
+            "iBaseSpeed": 300,
+            "aPoints": [
                 {
                     "iX": 477413,
                     "iY": 674485,
                     "iZ": -4805,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 473402,
                     "iY": 674017,
                     "iZ": -4765,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 471000,
                     "iY": 673731,
                     "iZ": -4927,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 470820,
                     "iY": 673624,
                     "iZ": -5347,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 465579,
                     "iY": 673916,
                     "iZ": -4989,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 464652,
                     "iY": 675107,
                     "iZ": -4579,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 463845,
                     "iY": 678714,
                     "iZ": -4986,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 465041,
                     "iY": 686197,
                     "iZ": -4917,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 466241,
                     "iY": 691171,
                     "iZ": -4622,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 466566,
                     "iY": 693436,
                     "iZ": -4507,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 466394,
                     "iY": 697283,
                     "iZ": -4707,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 466281,
                     "iY": 699658,
                     "iZ": -4742,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 471636,
                     "iY": 699139,
                     "iZ": -4706,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 474368,
                     "iY": 698515,
                     "iZ": -4647,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 475119,
                     "iY": 700329,
                     "iZ": -4337,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 479116,
                     "iY": 701649,
                     "iZ": -4259,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 480278,
                     "iY": 703151,
                     "iZ": -4380,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 481173,
                     "iY": 704365,
                     "iZ": -4627,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 485487,
                     "iY": 706565,
                     "iZ": -5876,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 492511,
                     "iY": 706398,
                     "iZ": -5642,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 493832,
                     "iY": 705960,
                     "iZ": -5279,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 494319,
                     "iY": 702786,
                     "iZ": -5115,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 493052,
                     "iY": 700677,
                     "iZ": -5499,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 491515,
                     "iY": 695587,
                     "iZ": -4631,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 489530,
                     "iY": 694361,
                     "iZ": -4132,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 486351,
                     "iY": 689883,
                     "iZ": -4122,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 482273,
                     "iY": 683582,
                     "iZ": -4178,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 480734,
                     "iY": 681072,
                     "iZ": -4246,
-                    "stop": 0
+                    "iStopTicks": 0
                 },
                 {
                     "iX": 477413,
                     "iY": 674485,
                     "iZ": -4805,
-                    "stop": 0
+                    "iStopTicks": 0
                 }
-            ],
-            "iBaseSpeed": 300,
-            "iNPCType": 3288
+            ]
         }
     }
 }
