@@ -28862,11 +28862,11 @@
         "0": {
             "EPID": 1,
             "RankScores": [
-                6499,
-                6299,
-                6099,
-                5699,
-                0
+                621,
+                543,
+                388,
+                233,
+                225
             ],
             "Rewards": [
                 950,
@@ -28875,16 +28875,22 @@
                 0,
                 0
             ],
-            "TimeLimit": 180
+            "TimeLimit": 150,
+            "ScoreCap": 777,
+            "TotalPods": 14,
+            "ScaleFactor": 5.644393282134237,
+            "PodFactor": 1.2,
+            "TimeFactor": 1.0,
+            "EPName": "KND Training Area (F)"
         },
         "1": {
             "EPID": 2,
             "RankScores": [
-                16699,
-                16499,
-                16199,
-                14999,
-                0
+                3633,
+                3179,
+                2271,
+                1362,
+                1317
             ],
             "Rewards": [
                 955,
@@ -28893,16 +28899,22 @@
                 0,
                 0
             ],
-            "TimeLimit": 360
+            "TimeLimit": 430,
+            "ScoreCap": 4542,
+            "TotalPods": 38,
+            "ScaleFactor": 7.591673579337926,
+            "PodFactor": 1.2,
+            "TimeFactor": 1.0,
+            "EPName": "Pokey Oaks Junior High (F)"
         },
         "2": {
             "EPID": 3,
             "RankScores": [
-                10399,
-                10249,
-                9899,
-                9399,
-                0
+                2088,
+                1827,
+                1305,
+                783,
+                757
             ],
             "Rewards": [
                 960,
@@ -28911,16 +28923,22 @@
                 0,
                 0
             ],
-            "TimeLimit": 240
+            "TimeLimit": 192,
+            "ScoreCap": 2611,
+            "TotalPods": 26,
+            "ScaleFactor": 7.037870159236836,
+            "PodFactor": 1.2,
+            "TimeFactor": 1.0,
+            "EPName": "Mandark's House (F)"
         },
         "3": {
             "EPID": 4,
             "RankScores": [
-                27849,
-                27599,
-                27199,
-                25999,
-                0
+                5898,
+                5161,
+                3686,
+                2211,
+                2138
             ],
             "Rewards": [
                 965,
@@ -28929,16 +28947,22 @@
                 0,
                 0
             ],
-            "TimeLimit": 480
+            "TimeLimit": 590,
+            "ScoreCap": 7373,
+            "TotalPods": 62,
+            "ScaleFactor": 8.076653705355968,
+            "PodFactor": 1.2,
+            "TimeFactor": 1.0,
+            "EPName": "Delightful Developments (F)"
         },
         "4": {
             "EPID": 5,
             "RankScores": [
-                36899,
-                36499,
-                35499,
-                33999,
-                0
+                10147,
+                8878,
+                6342,
+                3805,
+                3678
             ],
             "Rewards": [
                 970,
@@ -28947,16 +28971,22 @@
                 0,
                 0
             ],
-            "TimeLimit": 570
+            "TimeLimit": 982,
+            "ScoreCap": 12684,
+            "TotalPods": 83,
+            "ScaleFactor": 8.619724357072208,
+            "PodFactor": 1.2296292165591987,
+            "TimeFactor": 1.0,
+            "EPName": "Megas' Last Stand (F)"
         },
         "5": {
             "EPID": 7,
             "RankScores": [
-                47899,
-                47499,
-                46499,
-                44999,
-                0
+                9250,
+                8094,
+                5781,
+                3468,
+                3353
             ],
             "Rewards": [
                 975,
@@ -28965,16 +28995,22 @@
                 0,
                 0
             ],
-            "TimeLimit": 570
+            "TimeLimit": 647,
+            "ScoreCap": 11563,
+            "TotalPods": 103,
+            "ScaleFactor": 8.526717769447902,
+            "PodFactor": 1.2,
+            "TimeFactor": 1.0,
+            "EPName": "Pokey Oaks Junior High"
         },
         "6": {
             "EPID": 8,
             "RankScores": [
-                41099,
-                40999,
-                39999,
-                38499,
-                0
+                6077,
+                5317,
+                3798,
+                2279,
+                2203
             ],
             "Rewards": [
                 980,
@@ -28983,16 +29019,22 @@
                 0,
                 0
             ],
-            "TimeLimit": 480
+            "TimeLimit": 507,
+            "ScoreCap": 7597,
+            "TotalPods": 88,
+            "ScaleFactor": 8.10660652683406,
+            "PodFactor": 1.2,
+            "TimeFactor": 1.0,
+            "EPName": "Mandark's House"
         },
         "7": {
             "EPID": 9,
             "RankScores": [
-                24599,
-                24399,
-                23999,
-                22999,
-                0
+                3570,
+                3124,
+                2231,
+                1338,
+                1294
             ],
             "Rewards": [
                 985,
@@ -29001,16 +29043,22 @@
                 0,
                 0
             ],
-            "TimeLimit": 300
+            "TimeLimit": 300,
+            "ScoreCap": 4463,
+            "TotalPods": 53,
+            "ScaleFactor": 7.5736678705207,
+            "PodFactor": 1.2230897375690448,
+            "TimeFactor": 1.0,
+            "EPName": "Sweet Revenge"
         },
         "8": {
             "EPID": 10,
             "RankScores": [
-                28399,
-                27999,
-                27499,
-                26749,
-                0
+                6111,
+                5347,
+                3819,
+                2291,
+                2215
             ],
             "Rewards": [
                 990,
@@ -29019,16 +29067,22 @@
                 0,
                 0
             ],
-            "TimeLimit": 360
+            "TimeLimit": 425,
+            "ScoreCap": 7639,
+            "TotalPods": 64,
+            "ScaleFactor": 8.113141933259586,
+            "PodFactor": 1.2,
+            "TimeFactor": 1.0,
+            "EPName": "Delightful Developments"
         },
         "9": {
             "EPID": 11,
             "RankScores": [
-                63999,
-                64499,
-                63749,
-                61999,
-                0
+                12400,
+                10850,
+                7750,
+                4650,
+                4495
             ],
             "Rewards": [
                 995,
@@ -29037,16 +29091,22 @@
                 0,
                 0
             ],
-            "TimeLimit": 570
+            "TimeLimit": 1030,
+            "ScoreCap": 15500,
+            "TotalPods": 137,
+            "ScaleFactor": 8.79811262411761,
+            "PodFactor": 1.2,
+            "TimeFactor": 1.0,
+            "EPName": "Megas' Last Stand"
         },
         "10": {
             "EPID": 12,
             "RankScores": [
-                58299,
-                57999,
-                57399,
-                55999,
-                0
+                15678,
+                13718,
+                9799,
+                5879,
+                5683
             ],
             "Rewards": [
                 1000,
@@ -29055,16 +29115,22 @@
                 0,
                 0
             ],
-            "TimeLimit": 780
+            "TimeLimit": 1277,
+            "ScoreCap": 19598,
+            "TotalPods": 128,
+            "ScaleFactor": 9.055157699297208,
+            "PodFactor": 1.2,
+            "TimeFactor": 1.0,
+            "EPName": "The Boneyard"
         },
         "11": {
             "EPID": 13,
             "RankScores": [
-                60399,
-                59999,
-                59199,
-                57999,
-                0
+                22000,
+                19250,
+                13750,
+                8250,
+                7974
             ],
             "Rewards": [
                 1005,
@@ -29073,16 +29139,22 @@
                 0,
                 0
             ],
-            "TimeLimit": 720
+            "TimeLimit": 1537,
+            "ScoreCap": 27500,
+            "TotalPods": 132,
+            "ScaleFactor": 9.330381897919121,
+            "PodFactor": 1.2,
+            "TimeFactor": 1.0,
+            "EPName": "Reactor Works"
         },
         "12": {
             "EPID": 14,
             "RankScores": [
-                35199,
-                35199,
-                34799,
-                32999,
-                0
+                11600,
+                10150,
+                7250,
+                4350,
+                4205
             ],
             "Rewards": [
                 1010,
@@ -29091,16 +29163,22 @@
                 0,
                 0
             ],
-            "TimeLimit": 510
+            "TimeLimit": 682,
+            "ScoreCap": 14500,
+            "TotalPods": 76,
+            "ScaleFactor": 8.647786952095137,
+            "PodFactor": 1.2,
+            "TimeFactor": 1.0,
+            "EPName": "Charles Darwin Middle School"
         },
         "13": {
             "EPID": 15,
             "RankScores": [
-                54399,
-                54199,
-                53799,
-                52799,
-                0
+                13613,
+                11911,
+                8508,
+                5105,
+                4934
             ],
             "Rewards": [
                 1015,
@@ -29109,16 +29187,22 @@
                 0,
                 0
             ],
-            "TimeLimit": 570
+            "TimeLimit": 705,
+            "ScoreCap": 17017,
+            "TotalPods": 122,
+            "ScaleFactor": 8.913522030619491,
+            "PodFactor": 1.262065227232222,
+            "TimeFactor": 1.0,
+            "EPName": "Dizzy World"
         },
         "14": {
             "EPID": 16,
             "RankScores": [
-                44599,
-                45599,
-                44999,
-                43999,
-                0
+                10168,
+                8897,
+                6355,
+                3813,
+                3686
             ],
             "Rewards": [
                 1020,
@@ -29127,16 +29211,22 @@
                 0,
                 0
             ],
-            "TimeLimit": 540
+            "TimeLimit": 685,
+            "ScoreCap": 12711,
+            "TotalPods": 97,
+            "ScaleFactor": 8.621194040588406,
+            "PodFactor": 1.2,
+            "TimeFactor": 1.0,
+            "EPName": "Sunny Bridges Auditorium"
         },
         "15": {
             "EPID": 17,
             "RankScores": [
-                38999,
-                39499,
-                38799,
-                36999,
-                0
+                8400,
+                7349,
+                5250,
+                3150,
+                3045
             ],
             "Rewards": [
                 1025,
@@ -29145,16 +29235,22 @@
                 0,
                 0
             ],
-            "TimeLimit": 390
+            "TimeLimit": 575,
+            "ScoreCap": 10500,
+            "TotalPods": 84,
+            "ScaleFactor": 8.382126016514373,
+            "PodFactor": 1.2,
+            "TimeFactor": 1.0,
+            "EPName": "Jungle Training Area"
         },
         "16": {
             "EPID": 18,
             "RankScores": [
-                24399,
-                24199,
-                23499,
-                21999,
-                0
+                6400,
+                5600,
+                4000,
+                2400,
+                2320
             ],
             "Rewards": [
                 1030,
@@ -29163,16 +29259,22 @@
                 0,
                 0
             ],
-            "TimeLimit": 390
+            "TimeLimit": 367,
+            "ScoreCap": 8000,
+            "TotalPods": 53,
+            "ScaleFactor": 8.113139367178459,
+            "PodFactor": 1.2,
+            "TimeFactor": 1.0,
+            "EPName": "Loch Mess"
         },
         "17": {
             "EPID": 19,
             "RankScores": [
-                52999,
-                53499,
-                52999,
-                51999,
-                0
+                14316,
+                12526,
+                8947,
+                5368,
+                5189
             ],
             "Rewards": [
                 1035,
@@ -29181,16 +29283,22 @@
                 0,
                 0
             ],
-            "TimeLimit": 570
+            "TimeLimit": 677,
+            "ScoreCap": 17895,
+            "TotalPods": 115,
+            "ScaleFactor": 8.96450334377136,
+            "PodFactor": 1.2,
+            "TimeFactor": 1.0,
+            "EPName": "The Fissure"
         },
         "18": {
             "EPID": 20,
             "RankScores": [
-                22499,
-                22499,
-                21499,
-                19999,
-                0
+                7225,
+                6322,
+                4516,
+                2709,
+                2619
             ],
             "Rewards": [
                 1040,
@@ -29199,16 +29307,22 @@
                 0,
                 0
             ],
-            "TimeLimit": 300
+            "TimeLimit": 347,
+            "ScoreCap": 9032,
+            "TotalPods": 49,
+            "ScaleFactor": 8.280693578945383,
+            "PodFactor": 1.2,
+            "TimeFactor": 1.0,
+            "EPName": "Cutts and Bruises Skate Park"
         },
         "19": {
             "EPID": 21,
             "RankScores": [
-                69999,
-                72499,
-                71249,
-                69499,
-                0
+                22000,
+                19250,
+                13750,
+                8250,
+                7974
             ],
             "Rewards": [
                 1045,
@@ -29217,16 +29331,22 @@
                 0,
                 0
             ],
-            "TimeLimit": 720
+            "TimeLimit": 1257,
+            "ScoreCap": 27500,
+            "TotalPods": 156,
+            "ScaleFactor": 9.367066898499985,
+            "PodFactor": 1.2,
+            "TimeFactor": 1.0,
+            "EPName": "Sand Castle"
         },
         "20": {
             "EPID": 22,
             "RankScores": [
-                21399,
-                21199,
-                20499,
-                19499,
-                0
+                8800,
+                7699,
+                5500,
+                3300,
+                3190
             ],
             "Rewards": [
                 1050,
@@ -29235,16 +29355,22 @@
                 0,
                 0
             ],
-            "TimeLimit": 570
+            "TimeLimit": 702,
+            "ScoreCap": 11000,
+            "TotalPods": 50,
+            "ScaleFactor": 8.401840829134384,
+            "PodFactor": 1.2,
+            "TimeFactor": 1.0,
+            "EPName": "Crystalline Caverns"
         },
         "21": {
             "EPID": 23,
             "RankScores": [
-                35599,
-                35399,
-                34999,
-                33999,
-                0
+                19952,
+                17458,
+                12470,
+                7482,
+                7232
             ],
             "Rewards": [
                 1055,
@@ -29253,16 +29379,22 @@
                 0,
                 0
             ],
-            "TimeLimit": 570
+            "TimeLimit": 1082,
+            "ScoreCap": 24941,
+            "TotalPods": 81,
+            "ScaleFactor": 9.295800242588738,
+            "PodFactor": 1.2,
+            "TimeFactor": 1.0,
+            "EPName": "Construction Site"
         },
         "22": {
             "EPID": 24,
             "RankScores": [
-                31899,
-                31499,
-                29999,
-                27999,
-                0
+                17600,
+                15399,
+                11000,
+                6600,
+                6380
             ],
             "Rewards": [
                 1060,
@@ -29271,16 +29403,22 @@
                 0,
                 0
             ],
-            "TimeLimit": 510
+            "TimeLimit": 825,
+            "ScoreCap": 22000,
+            "TotalPods": 69,
+            "ScaleFactor": 9.133000406745746,
+            "PodFactor": 1.2,
+            "TimeFactor": 1.0,
+            "EPName": "Hani-Baba Temple"
         },
         "23": {
             "EPID": 25,
             "RankScores": [
-                55499,
-                54999,
-                53499,
-                49999,
-                0
+                37406,
+                32730,
+                23379,
+                14027,
+                13559
             ],
             "Rewards": [
                 1065,
@@ -29289,16 +29427,22 @@
                 0,
                 0
             ],
-            "TimeLimit": 780
+            "TimeLimit": 1590,
+            "ScoreCap": 46758,
+            "TotalPods": 123,
+            "ScaleFactor": 9.924523255641976,
+            "PodFactor": 1.2,
+            "TimeFactor": 1.0,
+            "EPName": "Tyrannical Gardens"
         },
         "24": {
             "EPID": 26,
             "RankScores": [
-                102499,
-                99999,
-                94999,
-                89999,
-                0
+                29678,
+                25968,
+                18549,
+                11129,
+                10758
             ],
             "Rewards": [
                 1070,
@@ -29307,16 +29451,22 @@
                 0,
                 0
             ],
-            "TimeLimit": 1200
+            "TimeLimit": 1750,
+            "ScoreCap": 37098,
+            "TotalPods": 220,
+            "ScaleFactor": 9.693329362883592,
+            "PodFactor": 1.7600011112671947,
+            "TimeFactor": 1.0,
+            "EPName": "Skypad Space Port"
         },
         "25": {
             "EPID": 27,
             "RankScores": [
-                44699,
-                44399,
-                43499,
-                41999,
-                0
+                20400,
+                17850,
+                12750,
+                7650,
+                7394
             ],
             "Rewards": [
                 1075,
@@ -29325,16 +29475,22 @@
                 0,
                 0
             ],
-            "TimeLimit": 570
+            "TimeLimit": 640,
+            "ScoreCap": 25500,
+            "TotalPods": 97,
+            "ScaleFactor": 9.297791938325084,
+            "PodFactor": 1.2,
+            "TimeFactor": 1.0,
+            "EPName": "Nowhere Triangle"
         },
         "26": {
             "EPID": 28,
             "RankScores": [
-                33199,
-                32799,
-                31999,
-                29999,
-                0
+                26164,
+                22894,
+                16353,
+                9811,
+                9484
             ],
             "Rewards": [
                 1080,
@@ -29343,16 +29499,22 @@
                 0,
                 0
             ],
-            "TimeLimit": 570
+            "TimeLimit": 1167,
+            "ScoreCap": 32706,
+            "TotalPods": 75,
+            "ScaleFactor": 9.567316195809651,
+            "PodFactor": 1.2,
+            "TimeFactor": 1.0,
+            "EPName": "The Canopy"
         },
         "27": {
             "EPID": 29,
             "RankScores": [
-                25799,
-                25499,
-                24799,
-                23799,
-                0
+                36759,
+                32164,
+                22974,
+                13784,
+                13325
             ],
             "Rewards": [
                 1085,
@@ -29361,16 +29523,22 @@
                 0,
                 0
             ],
-            "TimeLimit": 570
+            "TimeLimit": 925,
+            "ScoreCap": 45949,
+            "TotalPods": 59,
+            "ScaleFactor": 9.90720555811656,
+            "PodFactor": 1.2,
+            "TimeFactor": 1.0,
+            "EPName": "Monkey Summit"
         },
         "28": {
             "EPID": 30,
             "RankScores": [
-                41099,
-                40699,
-                39999,
-                37999,
-                0
+                16000,
+                14000,
+                10000,
+                6000,
+                5800
             ],
             "Rewards": [
                 1090,
@@ -29379,16 +29547,22 @@
                 0,
                 0
             ],
-            "TimeLimit": 420
+            "TimeLimit": 587,
+            "ScoreCap": 20000,
+            "TotalPods": 87,
+            "ScaleFactor": 9.033013009958553,
+            "PodFactor": 1.2139492602059367,
+            "TimeFactor": 1.0,
+            "EPName": "Dinosaur Graveyard"
         },
         "29": {
             "EPID": 31,
             "RankScores": [
-                38999,
-                38499,
-                37499,
-                35999,
-                0
+                56668,
+                49584,
+                35417,
+                21250,
+                20542
             ],
             "Rewards": [
                 1095,
@@ -29397,16 +29571,22 @@
                 0,
                 0
             ],
-            "TimeLimit": 600
+            "TimeLimit": 1370,
+            "ScoreCap": 70835,
+            "TotalPods": 89,
+            "ScaleFactor": 10.339699286891717,
+            "PodFactor": 1.2418629664643412,
+            "TimeFactor": 1.0,
+            "EPName": "Inferno Fields"
         },
         "30": {
             "EPID": 32,
             "RankScores": [
-                78599,
-                77999,
-                76999,
-                74999,
-                0
+                52800,
+                46200,
+                33000,
+                19800,
+                19140
             ],
             "Rewards": [
                 1100,
@@ -29415,16 +29595,22 @@
                 0,
                 0
             ],
-            "TimeLimit": 720
+            "TimeLimit": 1372,
+            "ScoreCap": 66000,
+            "TotalPods": 168,
+            "ScaleFactor": 10.268042998492291,
+            "PodFactor": 1.2071856457851444,
+            "TimeFactor": 1.0,
+            "EPName": "Dark Tree Clearing"
         },
         "31": {
             "EPID": 33,
             "RankScores": [
-                35399,
-                34999,
-                33999,
-                31999,
-                0
+                39280,
+                34370,
+                24550,
+                14730,
+                14239
             ],
             "Rewards": [
                 1105,
@@ -29433,7 +29619,13 @@
                 0,
                 0
             ],
-            "TimeLimit": 510
+            "TimeLimit": 652,
+            "ScoreCap": 49101,
+            "TotalPods": 74,
+            "ScaleFactor": 9.972844398130212,
+            "PodFactor": 1.2,
+            "TimeFactor": 1.0,
+            "EPName": "Green Gullet"
         }
     }
 }
