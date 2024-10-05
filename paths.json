@@ -5364,7 +5364,7 @@
             "bRelative": false,
             "iBaseSpeed": 300,
             "iTaskID": -1,
-            "comment": "ghost duck path"
+            "comment": "KND agent path"
         },
         "31": {
             "aNPCIDs": [
