@@ -11723,6 +11723,11 @@
             "AlterGenderMap": {},
             "AlterItemWeightMap": {},
             "ItemReferenceIDs": [
+                383,
+                385,
+                388,
+                969,
+                1425,
                 1928
             ]
         },
@@ -11737,6 +11742,11 @@
             "AlterGenderMap": {},
             "AlterItemWeightMap": {},
             "ItemReferenceIDs": [
+                478,
+                479,
+                1494,
+                1495,
+                1501,
                 1929
             ]
         },
@@ -11751,6 +11761,11 @@
             "AlterGenderMap": {},
             "AlterItemWeightMap": {},
             "ItemReferenceIDs": [
+                585,
+                589,
+                593,
+                1146,
+                1154,
                 1930
             ]
         },
@@ -11760,22 +11775,17 @@
             "IgnoreGender": false,
             "DefaultItemWeight": 1,
             "AlterRarityMap": {
-                "1931": 4,
-                "6": 2,
-                "1876": 2,
-                "166": 2
+                "1931": 4
             },
             "AlterGenderMap": {},
             "AlterItemWeightMap": {},
             "ItemReferenceIDs": [
-                1931,
-                1932,
-                1933,
-                3,
-                6,
-                1876,
-                163,
-                166
+                736,
+                1272,
+                1716,
+                1728,
+                1732,
+                1931
             ]
         },
         "232": {
@@ -14626,6 +14636,30 @@
                 1851,
                 1852
             ]
+        },
+        "306": {
+            "ItemSetID": 317,
+            "IgnoreRarity": false,
+            "IgnoreGender": false,
+            "DefaultItemWeight": 1,
+            "AlterRarityMap": {
+                "1931": 4,
+                "6": 2,
+                "1876": 2,
+                "166": 2
+            },
+            "AlterGenderMap": {},
+            "AlterItemWeightMap": {},
+            "ItemReferenceIDs": [
+                1931,
+                1932,
+                1933,
+                3,
+                6,
+                1876,
+                163,
+                166
+            ]
         }
     },
     "Crates": {
@@ -16931,7 +16965,7 @@
         },
         "460": {
             "CrateID": 181,
-            "ItemSetID": 231,
+            "ItemSetID": 317,
             "RarityWeightID": 5
         },
         "461": {
@@ -18757,22 +18791,22 @@
         "825": {
             "CrateID": 1183,
             "ItemSetID": 228,
-            "RarityWeightID": 6
+            "RarityWeightID": 3
         },
         "826": {
             "CrateID": 1184,
             "ItemSetID": 229,
-            "RarityWeightID": 6
+            "RarityWeightID": 3
         },
         "827": {
             "CrateID": 1185,
             "ItemSetID": 230,
-            "RarityWeightID": 6
+            "RarityWeightID": 3
         },
         "828": {
             "CrateID": 1186,
             "ItemSetID": 231,
-            "RarityWeightID": 6
+            "RarityWeightID": 3
         },
         "829": {
             "CrateID": 1181,
