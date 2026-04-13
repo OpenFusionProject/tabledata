@@ -14643,7 +14643,6 @@
             "IgnoreGender": false,
             "DefaultItemWeight": 1,
             "AlterRarityMap": {
-                "1931": 4,
                 "6": 2,
                 "1876": 2,
                 "166": 2
@@ -14651,7 +14650,6 @@
             "AlterGenderMap": {},
             "AlterItemWeightMap": {},
             "ItemReferenceIDs": [
-                1931,
                 1932,
                 1933,
                 3,
