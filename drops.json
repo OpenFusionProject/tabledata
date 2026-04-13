@@ -14580,7 +14580,7 @@
             ]
         },
         "306": {
-            "ItemSetID": 317,
+            "ItemSetID": 342,
             "IgnoreRarity": false,
             "IgnoreGender": false,
             "DefaultItemWeight": 1,
@@ -16905,7 +16905,7 @@
         },
         "460": {
             "CrateID": 181,
-            "ItemSetID": 317,
+            "ItemSetID": 342,
             "RarityWeightID": 5
         },
         "461": {
