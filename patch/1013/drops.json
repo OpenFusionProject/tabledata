@@ -5063,40 +5063,40 @@
     },
     "NanoCapsules": {
         "0": {
-            "CrateID": 1232,
-            "Nano": 37
+            "Nano": 37,
+            "CrateID": 1232
         },
         "1": {
-            "CrateID": 1233,
-            "Nano": 38
+            "Nano": 38,
+            "CrateID": 1233
         },
         "2": {
-            "CrateID": 1234,
-            "Nano": 39
+            "Nano": 39,
+            "CrateID": 1234
         },
         "3": {
-            "CrateID": 1245,
-            "Nano": 43
+            "Nano": 43,
+            "CrateID": 1245
         },
         "4": {
-            "CrateID": 1246,
-            "Nano": 51
+            "Nano": 51,
+            "CrateID": 1246
         },
         "5": {
-            "CrateID": 1247,
-            "Nano": 50
+            "Nano": 50,
+            "CrateID": 1247
         },
         "6": {
-            "CrateID": 1257,
-            "Nano": 54
+            "Nano": 54,
+            "CrateID": 1257
         },
         "7": {
-            "CrateID": 1258,
-            "Nano": 55
+            "Nano": 55,
+            "CrateID": 1258
         },
         "8": {
-            "CrateID": 1259,
-            "Nano": 56
+            "Nano": 56,
+            "CrateID": 1259
         }
     },
     "CodeItems": {

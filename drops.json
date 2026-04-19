@@ -6782,14 +6782,19 @@
         "4": {
             "RarityWeightID": 4,
             "Weights": [
-                1
+                1,
+                0,
+                0,
+                0
             ]
         },
         "5": {
             "RarityWeightID": 5,
             "Weights": [
                 65,
-                35
+                35,
+                0,
+                0
             ]
         },
         "6": {
