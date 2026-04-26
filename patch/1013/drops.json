@@ -263,6 +263,15 @@
         }
     },
     "Mobs": {
+        "43": {
+            "!MobDropID": 1452
+        },
+        "56": {
+            "!MobDropID": 1452
+        },
+        "241": {
+            "!MobDropID": 1449
+        },
         "10000": {
             "MobID": 18,
             "MobDropID": 550
