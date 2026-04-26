@@ -1120,8 +1120,13 @@
         },
         "276": {
             "!ItemReferenceIDs": [
+                1875,
+                1910,
                 1993,
-                1875
+                2129,
+                2236,
+                2237,
+                2238
             ]
         },
         "277": {
@@ -5132,6 +5137,21 @@
             "ItemReferenceID": 2235,
             "ItemID": 188,
             "Type": 4
+        },
+        "10224": {
+            "ItemReferenceID": 2236,
+            "ItemID": 72,
+            "Type": 6
+        },
+        "10225": {
+            "ItemReferenceID": 2237,
+            "ItemID": 89,
+            "Type": 6
+        },
+        "10226": {
+            "ItemReferenceID": 2238,
+            "ItemID": 90,
+            "Type": 6
         }
     },
     "NanoCapsules": {
