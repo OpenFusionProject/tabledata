@@ -434,6 +434,15 @@
                 65,
                 35
             ]
+        },
+        "10001": {
+            "RarityWeightID": 12,
+            "Weights": [
+                30,
+                30,
+                30,
+                10
+            ]
         }
     },
     "ItemSets": {
@@ -3080,19 +3089,24 @@
             "IgnoreGender": false,
             "DefaultItemWeight": 1,
             "AlterRarityMap": {
+                "352": 3,
+                "1178": 3,
                 "2224": 4,
                 "2222": 4,
-                "2223": 4
+                "2223": 4,
+                "2234": 4
             },
             "AlterGenderMap": {},
-            "AlterItemWeightMap": {
-                "1996": 7
-            },
+            "AlterItemWeightMap": {},
             "ItemReferenceIDs": [
+                352,
+                451,
+                1178,
                 1996,
                 2222,
                 2223,
-                2224
+                2224,
+                2234
             ]
         },
         "10020": {
@@ -3104,17 +3118,20 @@
                 "2224": 4,
                 "2228": 4,
                 "2222": 4,
-                "2223": 4
+                "2223": 4,
+                "2234": 4
             },
             "AlterGenderMap": {},
-            "AlterItemWeightMap": {
-                "2228": 7
-            },
+            "AlterItemWeightMap": {},
             "ItemReferenceIDs": [
+                171,
+                409,
+                714,
                 2222,
                 2223,
                 2224,
-                2228
+                2228,
+                2234
             ]
         },
         "10021": {
@@ -3126,17 +3143,20 @@
                 "2224": 4,
                 "353": 4,
                 "2222": 4,
-                "2223": 4
+                "2223": 4,
+                "2234": 4
             },
             "AlterGenderMap": {},
-            "AlterItemWeightMap": {
-                "353": 7
-            },
+            "AlterItemWeightMap": {},
             "ItemReferenceIDs": [
                 353,
+                1712,
+                1899,
                 2222,
                 2223,
-                2224
+                2224,
+                2234,
+                2235
             ]
         },
         "10022": {
@@ -3147,17 +3167,20 @@
             "AlterRarityMap": {
                 "2224": 4,
                 "2222": 4,
-                "2223": 4
+                "2223": 4,
+                "2234": 4
             },
             "AlterGenderMap": {},
-            "AlterItemWeightMap": {
-                "2229": 7
-            },
+            "AlterItemWeightMap": {},
             "ItemReferenceIDs": [
+                533,
+                938,
+                1443,
                 2222,
                 2223,
                 2224,
-                2229
+                2229,
+                2234
             ]
         },
         "10023": {
@@ -3191,17 +3214,20 @@
                 "2224": 4,
                 "2222": 4,
                 "2223": 4,
-                "2227": 4
+                "2227": 4,
+                "2234": 4
             },
             "AlterGenderMap": {},
-            "AlterItemWeightMap": {
-                "2227": 7
-            },
+            "AlterItemWeightMap": {},
             "ItemReferenceIDs": [
+                349,
+                1438,
+                1442,
                 2222,
                 2223,
                 2224,
-                2227
+                2227,
+                2234
             ]
         }
     },
@@ -3660,16 +3686,20 @@
             "!RarityWeightID": 1
         },
         "836": {
-            "!ItemSetID": 339
+            "!ItemSetID": 339,
+            "!RarityWeightID": 12
         },
         "837": {
-            "!ItemSetID": 338
+            "!ItemSetID": 338,
+            "!RarityWeightID": 12
         },
         "838": {
-            "!ItemSetID": 337
+            "!ItemSetID": 337,
+            "!RarityWeightID": 12
         },
         "839": {
-            "!ItemSetID": 336
+            "!ItemSetID": 336,
+            "!RarityWeightID": 12
         },
         "10000": {
             "CrateID": 1237,
@@ -3844,7 +3874,7 @@
         "10034": {
             "CrateID": 1192,
             "ItemSetID": 341,
-            "RarityWeightID": 6
+            "RarityWeightID": 12
         }
     },
     "ItemReferences": {
@@ -5059,6 +5089,16 @@
             "ItemReferenceID": 2232,
             "ItemID": 1187,
             "Type": 9
+        },
+        "10222": {
+            "ItemReferenceID": 2234,
+            "ItemID": 187,
+            "Type": 4
+        },
+        "10223": {
+            "ItemReferenceID": 2235,
+            "ItemID": 188,
+            "Type": 4
         }
     },
     "NanoCapsules": {
