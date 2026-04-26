@@ -11693,11 +11693,11 @@
             "AlterGenderMap": {},
             "AlterItemWeightMap": {},
             "ItemReferenceIDs": [
+                475,
                 478,
-                479,
+                1047,
                 1494,
                 1495,
-                1501,
                 1929
             ]
         },
@@ -11712,10 +11712,10 @@
             "AlterGenderMap": {},
             "AlterItemWeightMap": {},
             "ItemReferenceIDs": [
-                585,
                 589,
                 593,
                 1146,
+                1147,
                 1154,
                 1930
             ]
@@ -11733,7 +11733,7 @@
             "ItemReferenceIDs": [
                 736,
                 1272,
-                1716,
+                1723,
                 1728,
                 1732,
                 1931
