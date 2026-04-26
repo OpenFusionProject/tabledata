@@ -13,6 +13,18 @@
             "CrateTypeDropWeights": [
                 1
             ]
+        },
+        "10001": {
+            "CrateDropChanceID": 4,
+            "DropChance": 100,
+            "DropChanceTotal": 1000,
+            "CrateTypeDropWeights": [
+                20,
+                20,
+                20,
+                20,
+                20
+            ]
         }
     },
     "CrateDropTypes": {
@@ -111,6 +123,16 @@
             "CrateDropTypeID": 111,
             "CrateIDs": [
                 1126
+            ]
+        },
+        "10010": {
+            "CrateDropTypeID": 112,
+            "CrateIDs": [
+                1188,
+                1189,
+                1190,
+                1191,
+                1192
             ]
         }
     },
@@ -249,6 +271,13 @@
             "CrateDropTypeID": 111,
             "MiscDropChanceID": 1,
             "MiscDropTypeID": 0
+        },
+        "11456": {
+            "MobDropID": 1456,
+            "CrateDropChanceID": 4,
+            "CrateDropTypeID": 112,
+            "MiscDropChanceID": 1,
+            "MiscDropTypeID": 0
         }
     },
     "Events": {
@@ -260,6 +289,10 @@
         },
         "2": {
             "!MobDropID": 1455
+        },
+        "3": {
+            "EventID": 4,
+            "MobDropID": 1456
         }
     },
     "Mobs": {
