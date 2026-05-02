@@ -696,8 +696,17 @@
         }
     },
     "Mobs": {
+        "0": {
+            "!MobDropID": 390
+        },
         "1": {
             "!MobDropID": 752
+        },
+        "6": {
+            "!MobDropID": 150
+        },
+        "16": {
+            "!MobDropID": 230
         },
         "17": {
             "!MobDropID": 952
@@ -722,6 +731,15 @@
         },
         "241": {
             "!MobDropID": 1449
+        },
+        "377": {
+            "!MobDropID": 321
+        },
+        "519": {
+            "!MobDropID": 120
+        },
+        "520": {
+            "!MobDropID": 160
         },
         "521": {
             "!MobDropID": 474
