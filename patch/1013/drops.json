@@ -3397,8 +3397,7 @@
                 "1178": 3,
                 "2224": 4,
                 "2222": 4,
-                "2223": 4,
-                "2234": 4
+                "2223": 4
             },
             "AlterGenderMap": {},
             "AlterItemWeightMap": {},
@@ -3422,8 +3421,7 @@
                 "2224": 4,
                 "2228": 4,
                 "2222": 4,
-                "2223": 4,
-                "2234": 4
+                "2223": 4
             },
             "AlterGenderMap": {},
             "AlterItemWeightMap": {},
@@ -3445,10 +3443,8 @@
             "DefaultItemWeight": 1,
             "AlterRarityMap": {
                 "2224": 4,
-                "353": 4,
                 "2222": 4,
-                "2223": 4,
-                "2234": 4
+                "2223": 4
             },
             "AlterGenderMap": {},
             "AlterItemWeightMap": {},
@@ -3471,8 +3467,7 @@
             "AlterRarityMap": {
                 "2224": 4,
                 "2222": 4,
-                "2223": 4,
-                "2234": 4
+                "2223": 4
             },
             "AlterGenderMap": {},
             "AlterItemWeightMap": {},
@@ -3518,8 +3513,7 @@
                 "2224": 4,
                 "2222": 4,
                 "2223": 4,
-                "2227": 4,
-                "2234": 4
+                "2227": 4
             },
             "AlterGenderMap": {},
             "AlterItemWeightMap": {},
