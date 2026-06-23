@@ -41,6 +41,13 @@
             "CrateDropTypeID": 104,
             "MiscDropChanceID": 0,
             "MiscDropTypeID": 72
+        },
+        "11476": {
+            "MobDropID": 475,
+            "CrateDropChanceID": 1,
+            "CrateDropTypeID": 106,
+            "MiscDropChanceID": 0,
+            "MiscDropTypeID": 48
         }
     },
     "Mobs": {
@@ -73,6 +80,9 @@
         },
         "10028": {
             "!MobDropID": 562
+        },
+        "10032": {
+            "!MobDropID": 475
         },
         "10033": {
             "!MobDropID": 712
