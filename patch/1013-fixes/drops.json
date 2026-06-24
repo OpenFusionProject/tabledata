@@ -1,26 +1,5 @@
 {
     "MobDrops": {
-        "10302": {
-            "MobDropID": 302,
-            "CrateDropChanceID": 1,
-            "CrateDropTypeID": 92,
-            "MiscDropChanceID": 0,
-            "MiscDropTypeID": 31
-        },
-        "10382": {
-            "MobDropID": 382,
-            "CrateDropChanceID": 1,
-            "CrateDropTypeID": 93,
-            "MiscDropChanceID": 0,
-            "MiscDropTypeID": 39
-        },
-        "10473": {
-            "MobDropID": 473,
-            "CrateDropChanceID": 1,
-            "CrateDropTypeID": 106,
-            "MiscDropChanceID": 0,
-            "MiscDropTypeID": 48
-        },
         "10592": {
             "MobDropID": 592,
             "CrateDropChanceID": 0,
@@ -62,6 +41,13 @@
             "CrateDropTypeID": 104,
             "MiscDropChanceID": 0,
             "MiscDropTypeID": 72
+        },
+        "11476": {
+            "MobDropID": 475,
+            "CrateDropChanceID": 1,
+            "CrateDropTypeID": 106,
+            "MiscDropChanceID": 0,
+            "MiscDropTypeID": 48
         }
     },
     "Mobs": {
@@ -96,7 +82,7 @@
             "!MobDropID": 562
         },
         "10032": {
-            "!MobDropID": 473
+            "!MobDropID": 475
         },
         "10033": {
             "!MobDropID": 712
